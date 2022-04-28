@@ -1,0 +1,1250 @@
+"year","round","game","home_team","away_team","home_score","away_score"
+2021,"final",1,"Phoenix Suns","Milwaukee Bucks",105,118
+2021,"final",2,"Phoenix Suns","Milwaukee Bucks",108,118
+2021,"final",3,"Milwaukee Bucks","Phoenix Suns",100,120
+2021,"final",4,"Milwaukee Bucks","Phoenix Suns",103,109
+2021,"final",5,"Phoenix Suns","Milwaukee Bucks",123,119
+2021,"final",6,"Milwaukee Bucks","Phoenix Suns",98,105
+2021,"third",1,"Milwaukee Bucks","Atlanta Hawks",113,116
+2021,"third",2,"Milwaukee Bucks","Atlanta Hawks",125,91
+2021,"third",3,"Atlanta Hawks","Milwaukee Bucks",102,113
+2021,"third",4,"Atlanta Hawks","Milwaukee Bucks",110,88
+2021,"third",5,"Milwaukee Bucks","Atlanta Hawks",123,112
+2021,"third",6,"Atlanta Hawks","Milwaukee Bucks",107,118
+2021,"third",1,"Phoenix Suns","Los Angeles Clippers",120,114
+2021,"third",2,"Phoenix Suns","Los Angeles Clippers",104,103
+2021,"third",3,"Los Angeles Clippers","Phoenix Suns",106,92
+2021,"third",4,"Los Angeles Clippers","Phoenix Suns",80,84
+2021,"third",5,"Phoenix Suns","Los Angeles Clippers",102,116
+2021,"third",6,"Los Angeles Clippers","Phoenix Suns",103,130
+2021,"second",1,"Philadelphia 76ers","Atlanta Hawks",124,128
+2021,"second",2,"Philadelphia 76ers","Atlanta Hawks",118,102
+2021,"second",3,"Atlanta Hawks","Philadelphia 76ers",111,127
+2021,"second",4,"Atlanta Hawks","Philadelphia 76ers",103,100
+2021,"second",5,"Philadelphia 76ers","Atlanta Hawks",106,109
+2021,"second",6,"Atlanta Hawks","Philadelphia 76ers",99,104
+2021,"second",7,"Philadelphia 76ers","Atlanta Hawks",96,103
+2021,"second",1,"Brooklyn Nets","Milwaukee Bucks",115,107
+2021,"second",2,"Brooklyn Nets","Milwaukee Bucks",125,86
+2021,"second",3,"Milwaukee Bucks","Brooklyn Nets",86,83
+2021,"second",4,"Milwaukee Bucks","Brooklyn Nets",107,96
+2021,"second",5,"Brooklyn Nets","Milwaukee Bucks",114,108
+2021,"second",6,"Milwaukee Bucks","Brooklyn Nets",104,89
+2021,"second",7,"Brooklyn Nets","Milwaukee Bucks",111,115
+2021,"second",1,"Utah Jazz","Los Angeles Clippers",112,109
+2021,"second",2,"Utah Jazz","Los Angeles Clippers",117,111
+2021,"second",3,"Los Angeles Clippers","Utah Jazz",132,106
+2021,"second",4,"Los Angeles Clippers","Utah Jazz",118,104
+2021,"second",5,"Utah Jazz","Los Angeles Clippers",111,119
+2021,"second",6,"Los Angeles Clippers","Utah Jazz",131,119
+2021,"second",1,"Phoenix Suns","Denver Nuggets",122,105
+2021,"second",2,"Phoenix Suns","Denver Nuggets",123,98
+2021,"second",3,"Denver Nuggets","Phoenix Suns",102,116
+2021,"second",4,"Denver Nuggets","Phoenix Suns",118,125
+2021,"first",1,"New York Knicks","Atlanta Hawks",105,107
+2021,"first",2,"New York Knicks","Atlanta Hawks",101,92
+2021,"first",3,"Atlanta Hawks","New York Knicks",105,94
+2021,"first",4,"Atlanta Hawks","New York Knicks",113,96
+2021,"first",5,"New York Knicks","Atlanta Hawks",89,103
+2021,"first",1,"Brooklyn Nets","Boston Celtics",104,93
+2021,"first",2,"Brooklyn Nets","Boston Celtics",130,108
+2021,"first",3,"Boston Celtics","Brooklyn Nets",125,119
+2021,"first",4,"Boston Celtics","Brooklyn Nets",126,141
+2021,"first",5,"Brooklyn Nets","Boston Celtics",123,109
+2021,"first",1,"Milwaukee Bucks","Miami Heat",109,107
+2021,"first",2,"Milwaukee Bucks","Miami Heat",132,98
+2021,"first",3,"Miami Heat","Milwaukee Bucks",84,113
+2021,"first",4,"Miami Heat","Milwaukee Bucks",103,120
+2021,"first",1,"Philadelphia 76ers","Washington Wizards",125,118
+2021,"first",2,"Philadelphia 76ers","Washington Wizards",120,95
+2021,"first",3,"Washington Wizards","Philadelphia 76ers",103,132
+2021,"first",4,"Washington Wizards","Philadelphia 76ers",122,114
+2021,"first",5,"Philadelphia 76ers","Washington Wizards",129,112
+2021,"first",1,"Denver Nuggets","Portland Trail Blazers",109,123
+2021,"first",2,"Denver Nuggets","Portland Trail Blazers",128,109
+2021,"first",3,"Portland Trail Blazers","Denver Nuggets",115,120
+2021,"first",4,"Portland Trail Blazers","Denver Nuggets",115,95
+2021,"first",5,"Denver Nuggets","Portland Trail Blazers",147,140
+2021,"first",6,"Portland Trail Blazers","Denver Nuggets",115,126
+2021,"first",1,"Los Angeles Clippers","Dallas Mavericks",103,113
+2021,"first",2,"Los Angeles Clippers","Dallas Mavericks",121,127
+2021,"first",3,"Dallas Mavericks","Los Angeles Clippers",108,118
+2021,"first",4,"Dallas Mavericks","Los Angeles Clippers",81,106
+2021,"first",5,"Los Angeles Clippers","Dallas Mavericks",100,105
+2021,"first",6,"Dallas Mavericks","Los Angeles Clippers",97,104
+2021,"first",7,"Los Angeles Clippers","Dallas Mavericks",126,111
+2021,"first",1,"Phoenix Suns","Los Angeles Lakers",99,90
+2021,"first",2,"Phoenix Suns","Los Angeles Lakers",102,109
+2021,"first",3,"Los Angeles Lakers","Phoenix Suns",109,95
+2021,"first",4,"Los Angeles Lakers","Phoenix Suns",92,100
+2021,"first",5,"Phoenix Suns","Los Angeles Lakers",115,85
+2021,"first",6,"Los Angeles Lakers","Phoenix Suns",100,113
+2021,"first",1,"Utah Jazz","Memphis Grizzlies",109,112
+2021,"first",2,"Utah Jazz","Memphis Grizzlies",141,129
+2021,"first",3,"Memphis Grizzlies","Utah Jazz",111,121
+2021,"first",4,"Memphis Grizzlies","Utah Jazz",113,120
+2021,"first",5,"Utah Jazz","Memphis Grizzlies",126,110
+2020,"final",1,"Los Angeles Lakers","Miami Heat",116,98
+2020,"final",2,"Los Angeles Lakers","Miami Heat",124,114
+2020,"final",3,"Miami Heat","Los Angeles Lakers",115,104
+2020,"final",4,"Miami Heat","Los Angeles Lakers",96,102
+2020,"final",5,"Los Angeles Lakers","Miami Heat",108,111
+2020,"final",6,"Miami Heat","Los Angeles Lakers",93,106
+2020,"third",1,"Boston Celtics","Miami Heat",114,117
+2020,"third",2,"Boston Celtics","Miami Heat",101,106
+2020,"third",3,"Miami Heat","Boston Celtics",106,117
+2020,"third",4,"Miami Heat","Boston Celtics",112,109
+2020,"third",5,"Boston Celtics","Miami Heat",121,108
+2020,"third",6,"Miami Heat","Boston Celtics",125,113
+2020,"third",1,"Los Angeles Lakers","Denver Nuggets",126,114
+2020,"third",2,"Los Angeles Lakers","Denver Nuggets",105,103
+2020,"third",3,"Denver Nuggets","Los Angeles Lakers",114,106
+2020,"third",4,"Denver Nuggets","Los Angeles Lakers",108,114
+2020,"third",5,"Los Angeles Lakers","Denver Nuggets",117,107
+2020,"second",1,"Toronto Raptors","Boston Celtics",94,112
+2020,"second",2,"Toronto Raptors","Boston Celtics",99,102
+2020,"second",3,"Boston Celtics","Toronto Raptors",103,104
+2020,"second",4,"Boston Celtics","Toronto Raptors",93,100
+2020,"second",5,"Toronto Raptors","Boston Celtics",89,111
+2020,"second",6,"Boston Celtics","Toronto Raptors",122,125
+2020,"second",7,"Toronto Raptors","Boston Celtics",87,92
+2020,"second",1,"Milwaukee Bucks","Miami Heat",104,115
+2020,"second",2,"Milwaukee Bucks","Miami Heat",114,116
+2020,"second",3,"Miami Heat","Milwaukee Bucks",115,100
+2020,"second",4,"Miami Heat","Milwaukee Bucks",115,118
+2020,"second",5,"Milwaukee Bucks","Miami Heat",94,103
+2020,"second",1,"Los Angeles Clippers","Denver Nuggets",120,97
+2020,"second",2,"Los Angeles Clippers","Denver Nuggets",101,110
+2020,"second",3,"Denver Nuggets","Los Angeles Clippers",107,113
+2020,"second",4,"Denver Nuggets","Los Angeles Clippers",85,96
+2020,"second",5,"Los Angeles Clippers","Denver Nuggets",105,111
+2020,"second",6,"Denver Nuggets","Los Angeles Clippers",111,98
+2020,"second",7,"Los Angeles Clippers","Denver Nuggets",89,104
+2020,"second",1,"Los Angeles Lakers","Houston Rockets",97,112
+2020,"second",2,"Los Angeles Lakers","Houston Rockets",117,109
+2020,"second",3,"Houston Rockets","Los Angeles Lakers",102,112
+2020,"second",4,"Houston Rockets","Los Angeles Lakers",100,110
+2020,"second",5,"Los Angeles Lakers","Houston Rockets",119,96
+2020,"first",1,"Boston Celtics","Philadelphia 76ers",109,101
+2020,"first",2,"Boston Celtics","Philadelphia 76ers",128,101
+2020,"first",3,"Philadelphia 76ers","Boston Celtics",94,102
+2020,"first",4,"Philadelphia 76ers","Boston Celtics",106,110
+2020,"first",1,"Indiana Pacers","Miami Heat",101,113
+2020,"first",2,"Indiana Pacers","Miami Heat",100,109
+2020,"first",3,"Miami Heat","Indiana Pacers",124,115
+2020,"first",4,"Miami Heat","Indiana Pacers",99,87
+2020,"first",1,"Milwaukee Bucks","Orlando Magic",110,122
+2020,"first",2,"Milwaukee Bucks","Orlando Magic",111,96
+2020,"first",3,"Orlando Magic","Milwaukee Bucks",107,121
+2020,"first",4,"Orlando Magic","Milwaukee Bucks",106,121
+2020,"first",5,"Milwaukee Bucks","Orlando Magic",118,104
+2020,"first",1,"Toronto Raptors","Brooklyn Nets",134,110
+2020,"first",2,"Toronto Raptors","Brooklyn Nets",104,99
+2020,"first",3,"Brooklyn Nets","Toronto Raptors",92,117
+2020,"first",4,"Brooklyn Nets","Toronto Raptors",122,150
+2020,"first",1,"Denver Nuggets","Utah Jazz",135,125
+2020,"first",2,"Denver Nuggets","Utah Jazz",105,124
+2020,"first",3,"Utah Jazz","Denver Nuggets",124,87
+2020,"first",4,"Utah Jazz","Denver Nuggets",129,127
+2020,"first",5,"Denver Nuggets","Utah Jazz",117,107
+2020,"first",6,"Utah Jazz","Denver Nuggets",107,119
+2020,"first",7,"Denver Nuggets","Utah Jazz",80,78
+2020,"first",1,"Houston Rockets","Oklahoma City Thunder",123,108
+2020,"first",2,"Houston Rockets","Oklahoma City Thunder",111,98
+2020,"first",3,"Oklahoma City Thunder","Houston Rockets",119,107
+2020,"first",4,"Oklahoma City Thunder","Houston Rockets",117,114
+2020,"first",5,"Houston Rockets","Oklahoma City Thunder",114,80
+2020,"first",6,"Oklahoma City Thunder","Houston Rockets",104,100
+2020,"first",7,"Houston Rockets","Oklahoma City Thunder",104,102
+2020,"first",1,"Los Angeles Clippers","Dallas Mavericks",118,110
+2020,"first",2,"Los Angeles Clippers","Dallas Mavericks",114,127
+2020,"first",3,"Dallas Mavericks","Los Angeles Clippers",122,130
+2020,"first",4,"Dallas Mavericks","Los Angeles Clippers",135,133
+2020,"first",5,"Los Angeles Clippers","Dallas Mavericks",154,111
+2020,"first",6,"Dallas Mavericks","Los Angeles Clippers",97,111
+2020,"first",1,"Los Angeles Lakers","Portland Trail Blazers",93,100
+2020,"first",2,"Los Angeles Lakers","Portland Trail Blazers",111,88
+2020,"first",3,"Portland Trail Blazers","Los Angeles Lakers",108,116
+2020,"first",4,"Portland Trail Blazers","Los Angeles Lakers",115,135
+2020,"first",5,"Los Angeles Lakers","Portland Trail Blazers",131,122
+2019,"final",1,"Toronto Raptors","Golden State Warriors",118,109
+2019,"final",2,"Toronto Raptors","Golden State Warriors",104,109
+2019,"final",3,"Golden State Warriors","Toronto Raptors",109,123
+2019,"final",4,"Golden State Warriors","Toronto Raptors",92,105
+2019,"final",5,"Toronto Raptors","Golden State Warriors",105,106
+2019,"final",6,"Golden State Warriors","Toronto Raptors",110,114
+2019,"third",1,"Milwaukee Bucks","Toronto Raptors",108,100
+2019,"third",2,"Milwaukee Bucks","Toronto Raptors",125,103
+2019,"third",3,"Toronto Raptors","Milwaukee Bucks",118,112
+2019,"third",4,"Toronto Raptors","Milwaukee Bucks",120,102
+2019,"third",5,"Milwaukee Bucks","Toronto Raptors",99,105
+2019,"third",6,"Toronto Raptors","Milwaukee Bucks",100,94
+2019,"third",1,"Golden State Warriors","Portland Trail Blazers",116,94
+2019,"third",2,"Golden State Warriors","Portland Trail Blazers",114,111
+2019,"third",3,"Portland Trail Blazers","Golden State Warriors",99,110
+2019,"third",4,"Portland Trail Blazers","Golden State Warriors",117,119
+2019,"second",1,"Milwaukee Bucks","Boston Celtics",90,112
+2019,"second",2,"Milwaukee Bucks","Boston Celtics",123,102
+2019,"second",3,"Boston Celtics","Milwaukee Bucks",116,123
+2019,"second",4,"Boston Celtics","Milwaukee Bucks",101,113
+2019,"second",5,"Milwaukee Bucks","Boston Celtics",116,91
+2019,"second",1,"Toronto Raptors","Philadelphia 76ers",108,95
+2019,"second",2,"Toronto Raptors","Philadelphia 76ers",89,94
+2019,"second",3,"Philadelphia 76ers","Toronto Raptors",116,95
+2019,"second",4,"Philadelphia 76ers","Toronto Raptors",96,101
+2019,"second",5,"Toronto Raptors","Philadelphia 76ers",125,89
+2019,"second",6,"Philadelphia 76ers","Toronto Raptors",112,101
+2019,"second",7,"Toronto Raptors","Philadelphia 76ers",92,90
+2019,"second",1,"Golden State Warriors","Houston Rockets",104,100
+2019,"second",2,"Golden State Warriors","Houston Rockets",115,109
+2019,"second",3,"Houston Rockets","Golden State Warriors",126,121
+2019,"second",4,"Houston Rockets","Golden State Warriors",112,108
+2019,"second",5,"Golden State Warriors","Houston Rockets",104,99
+2019,"second",6,"Houston Rockets","Golden State Warriors",113,118
+2019,"second",1,"Denver Nuggets","Portland Trail Blazers",121,113
+2019,"second",2,"Denver Nuggets","Portland Trail Blazers",90,97
+2019,"second",3,"Portland Trail Blazers","Denver Nuggets",140,137
+2019,"second",4,"Portland Trail Blazers","Denver Nuggets",112,116
+2019,"second",5,"Denver Nuggets","Portland Trail Blazers",124,98
+2019,"second",6,"Portland Trail Blazers","Denver Nuggets",119,108
+2019,"second",7,"Denver Nuggets","Portland Trail Blazers",96,100
+2019,"first",1,"Boston Celtics","Indiana Pacers",84,74
+2019,"first",2,"Boston Celtics","Indiana Pacers",99,91
+2019,"first",3,"Indiana Pacers","Boston Celtics",96,104
+2019,"first",4,"Indiana Pacers","Boston Celtics",106,110
+2019,"first",1,"Milwaukee Bucks","Detroit Pistons",121,86
+2019,"first",2,"Milwaukee Bucks","Detroit Pistons",120,99
+2019,"first",3,"Detroit Pistons","Milwaukee Bucks",103,119
+2019,"first",4,"Detroit Pistons","Milwaukee Bucks",104,127
+2019,"first",1,"Philadelphia 76ers","Brooklyn Nets",102,111
+2019,"first",2,"Philadelphia 76ers","Brooklyn Nets",145,123
+2019,"first",3,"Brooklyn Nets","Philadelphia 76ers",115,131
+2019,"first",4,"Brooklyn Nets","Philadelphia 76ers",108,112
+2019,"first",5,"Philadelphia 76ers","Brooklyn Nets",122,100
+2019,"first",1,"Toronto Raptors","Orlando Magic",101,104
+2019,"first",2,"Toronto Raptors","Orlando Magic",111,82
+2019,"first",3,"Orlando Magic","Toronto Raptors",93,98
+2019,"first",4,"Orlando Magic","Toronto Raptors",85,107
+2019,"first",5,"Toronto Raptors","Orlando Magic",115,96
+2019,"first",1,"Denver Nuggets","San Antonio Spurs",96,101
+2019,"first",2,"Denver Nuggets","San Antonio Spurs",114,105
+2019,"first",3,"San Antonio Spurs","Denver Nuggets",118,108
+2019,"first",4,"San Antonio Spurs","Denver Nuggets",103,117
+2019,"first",5,"Denver Nuggets","San Antonio Spurs",108,90
+2019,"first",6,"San Antonio Spurs","Denver Nuggets",120,103
+2019,"first",7,"Denver Nuggets","San Antonio Spurs",90,86
+2019,"first",1,"Golden State Warriors","Los Angeles Clippers",121,104
+2019,"first",2,"Golden State Warriors","Los Angeles Clippers",131,135
+2019,"first",3,"Los Angeles Clippers","Golden State Warriors",105,132
+2019,"first",4,"Los Angeles Clippers","Golden State Warriors",105,113
+2019,"first",5,"Golden State Warriors","Los Angeles Clippers",121,129
+2019,"first",6,"Los Angeles Clippers","Golden State Warriors",110,129
+2019,"first",1,"Houston Rockets","Utah Jazz",122,90
+2019,"first",2,"Houston Rockets","Utah Jazz",118,98
+2019,"first",3,"Utah Jazz","Houston Rockets",101,104
+2019,"first",4,"Utah Jazz","Houston Rockets",107,91
+2019,"first",5,"Houston Rockets","Utah Jazz",100,93
+2019,"first",1,"Portland Trail Blazers","Oklahoma City Thunder",104,99
+2019,"first",2,"Portland Trail Blazers","Oklahoma City Thunder",114,94
+2019,"first",3,"Oklahoma City Thunder","Portland Trail Blazers",120,108
+2019,"first",4,"Oklahoma City Thunder","Portland Trail Blazers",98,111
+2019,"first",5,"Portland Trail Blazers","Oklahoma City Thunder",118,115
+2018,"final",1,"Golden State Warriors","Cleveland Cavaliers",124,114
+2018,"final",2,"Golden State Warriors","Cleveland Cavaliers",122,103
+2018,"final",3,"Cleveland Cavaliers","Golden State Warriors",102,110
+2018,"final",4,"Cleveland Cavaliers","Golden State Warriors",85,108
+2018,"third",1,"Boston Celtics","Cleveland Cavaliers",108,83
+2018,"third",2,"Boston Celtics","Cleveland Cavaliers",107,94
+2018,"third",3,"Cleveland Cavaliers","Boston Celtics",116,86
+2018,"third",4,"Cleveland Cavaliers","Boston Celtics",111,102
+2018,"third",5,"Boston Celtics","Cleveland Cavaliers",96,83
+2018,"third",6,"Cleveland Cavaliers","Boston Celtics",109,99
+2018,"third",7,"Boston Celtics","Cleveland Cavaliers",79,87
+2018,"third",1,"Houston Rockets","Golden State Warriors",106,119
+2018,"third",2,"Houston Rockets","Golden State Warriors",127,105
+2018,"third",3,"Golden State Warriors","Houston Rockets",126,85
+2018,"third",4,"Golden State Warriors","Houston Rockets",92,95
+2018,"third",5,"Houston Rockets","Golden State Warriors",98,94
+2018,"third",6,"Golden State Warriors","Houston Rockets",115,86
+2018,"third",7,"Houston Rockets","Golden State Warriors",92,101
+2018,"second",1,"Boston Celtics","Philadelphia 76ers",117,101
+2018,"second",2,"Boston Celtics","Philadelphia 76ers",108,103
+2018,"second",3,"Philadelphia 76ers","Boston Celtics",98,101
+2018,"second",4,"Philadelphia 76ers","Boston Celtics",103,92
+2018,"second",5,"Boston Celtics","Philadelphia 76ers",114,112
+2018,"second",1,"Toronto Raptors","Cleveland Cavaliers",112,113
+2018,"second",2,"Toronto Raptors","Cleveland Cavaliers",110,128
+2018,"second",3,"Cleveland Cavaliers","Toronto Raptors",105,103
+2018,"second",4,"Cleveland Cavaliers","Toronto Raptors",128,93
+2018,"second",1,"Golden State Warriors","New Orleans Pelicans",123,101
+2018,"second",2,"Golden State Warriors","New Orleans Pelicans",121,116
+2018,"second",3,"New Orleans Pelicans","Golden State Warriors",119,100
+2018,"second",4,"New Orleans Pelicans","Golden State Warriors",92,118
+2018,"second",5,"Golden State Warriors","New Orleans Pelicans",113,104
+2018,"second",1,"Houston Rockets","Utah Jazz",110,96
+2018,"second",2,"Houston Rockets","Utah Jazz",108,116
+2018,"second",3,"Utah Jazz","Houston Rockets",92,113
+2018,"second",4,"Utah Jazz","Houston Rockets",87,100
+2018,"second",5,"Houston Rockets","Utah Jazz",112,102
+2018,"first",1,"Boston Celtics","Milwaukee Bucks",113,107
+2018,"first",2,"Boston Celtics","Milwaukee Bucks",120,106
+2018,"first",3,"Milwaukee Bucks","Boston Celtics",116,92
+2018,"first",4,"Milwaukee Bucks","Boston Celtics",104,102
+2018,"first",5,"Boston Celtics","Milwaukee Bucks",92,87
+2018,"first",6,"Milwaukee Bucks","Boston Celtics",97,86
+2018,"first",7,"Boston Celtics","Milwaukee Bucks",112,96
+2018,"first",1,"Cleveland Cavaliers","Indiana Pacers",80,98
+2018,"first",2,"Cleveland Cavaliers","Indiana Pacers",100,97
+2018,"first",3,"Indiana Pacers","Cleveland Cavaliers",92,90
+2018,"first",4,"Indiana Pacers","Cleveland Cavaliers",100,104
+2018,"first",5,"Cleveland Cavaliers","Indiana Pacers",98,95
+2018,"first",6,"Indiana Pacers","Cleveland Cavaliers",121,87
+2018,"first",7,"Cleveland Cavaliers","Indiana Pacers",105,101
+2018,"first",1,"Philadelphia 76ers","Miami Heat",130,103
+2018,"first",2,"Philadelphia 76ers","Miami Heat",103,113
+2018,"first",3,"Miami Heat","Philadelphia 76ers",108,128
+2018,"first",4,"Miami Heat","Philadelphia 76ers",102,106
+2018,"first",5,"Philadelphia 76ers","Miami Heat",104,91
+2018,"first",1,"Toronto Raptors","Washington Wizards",114,106
+2018,"first",2,"Toronto Raptors","Washington Wizards",130,119
+2018,"first",3,"Washington Wizards","Toronto Raptors",122,103
+2018,"first",4,"Washington Wizards","Toronto Raptors",106,98
+2018,"first",5,"Toronto Raptors","Washington Wizards",108,98
+2018,"first",6,"Washington Wizards","Toronto Raptors",92,102
+2018,"first",1,"Golden State Warriors","San Antonio Spurs",113,92
+2018,"first",2,"Golden State Warriors","San Antonio Spurs",116,101
+2018,"first",3,"San Antonio Spurs","Golden State Warriors",97,110
+2018,"first",4,"San Antonio Spurs","Golden State Warriors",103,90
+2018,"first",5,"Golden State Warriors","San Antonio Spurs",99,91
+2018,"first",1,"Houston Rockets","Minnesota Timberwolves",104,101
+2018,"first",2,"Houston Rockets","Minnesota Timberwolves",102,82
+2018,"first",3,"Minnesota Timberwolves","Houston Rockets",121,105
+2018,"first",4,"Minnesota Timberwolves","Houston Rockets",100,119
+2018,"first",5,"Houston Rockets","Minnesota Timberwolves",122,104
+2018,"first",1,"Portland Trail Blazers","New Orleans Pelicans",95,97
+2018,"first",2,"Portland Trail Blazers","New Orleans Pelicans",102,111
+2018,"first",3,"New Orleans Pelicans","Portland Trail Blazers",119,102
+2018,"first",4,"New Orleans Pelicans","Portland Trail Blazers",131,123
+2018,"first",1,"Oklahoma City Thunder","Utah Jazz",116,108
+2018,"first",2,"Oklahoma City Thunder","Utah Jazz",95,102
+2018,"first",3,"Utah Jazz","Oklahoma City Thunder",115,102
+2018,"first",4,"Utah Jazz","Oklahoma City Thunder",113,96
+2018,"first",5,"Oklahoma City Thunder","Utah Jazz",107,99
+2018,"first",6,"Utah Jazz","Oklahoma City Thunder",96,91
+2017,"final",1,"Golden State Warriors","Cleveland Cavaliers",113,91
+2017,"final",2,"Golden State Warriors","Cleveland Cavaliers",132,113
+2017,"final",3,"Cleveland Cavaliers","Golden State Warriors",113,118
+2017,"final",4,"Cleveland Cavaliers","Golden State Warriors",137,116
+2017,"final",5,"Golden State Warriors","Cleveland Cavaliers",129,120
+2017,"third",1,"Boston Celtics","Cleveland Cavaliers",104,117
+2017,"third",2,"Boston Celtics","Cleveland Cavaliers",86,130
+2017,"third",3,"Cleveland Cavaliers","Boston Celtics",108,111
+2017,"third",4,"Cleveland Cavaliers","Boston Celtics",112,99
+2017,"third",5,"Boston Celtics","Cleveland Cavaliers",102,135
+2017,"third",1,"Golden State Warriors","San Antonio Spurs",113,111
+2017,"third",2,"Golden State Warriors","San Antonio Spurs",136,100
+2017,"third",3,"San Antonio Spurs","Golden State Warriors",108,120
+2017,"third",4,"San Antonio Spurs","Golden State Warriors",115,129
+2017,"second",1,"Boston Celtics","Washington Wizards",123,111
+2017,"second",2,"Boston Celtics","Washington Wizards",129,119
+2017,"second",3,"Washington Wizards","Boston Celtics",116,89
+2017,"second",4,"Washington Wizards","Boston Celtics",121,102
+2017,"second",5,"Boston Celtics","Washington Wizards",123,101
+2017,"second",6,"Washington Wizards","Boston Celtics",92,91
+2017,"second",7,"Boston Celtics","Washington Wizards",115,105
+2017,"second",1,"Cleveland Cavaliers","Toronto Raptors",116,105
+2017,"second",2,"Cleveland Cavaliers","Toronto Raptors",125,103
+2017,"second",3,"Toronto Raptors","Cleveland Cavaliers",94,115
+2017,"second",4,"Toronto Raptors","Cleveland Cavaliers",102,109
+2017,"second",1,"Golden State Warriors","Utah Jazz",106,94
+2017,"second",2,"Golden State Warriors","Utah Jazz",115,104
+2017,"second",3,"Utah Jazz","Golden State Warriors",91,102
+2017,"second",4,"Utah Jazz","Golden State Warriors",95,121
+2017,"second",1,"San Antonio Spurs","Houston Rockets",99,126
+2017,"second",2,"San Antonio Spurs","Houston Rockets",121,96
+2017,"second",3,"Houston Rockets","San Antonio Spurs",92,103
+2017,"second",4,"Houston Rockets","San Antonio Spurs",125,104
+2017,"second",5,"San Antonio Spurs","Houston Rockets",110,107
+2017,"second",6,"Houston Rockets","San Antonio Spurs",75,114
+2017,"first",1,"Boston Celtics","Chicago Bulls",102,106
+2017,"first",2,"Boston Celtics","Chicago Bulls",97,111
+2017,"first",3,"Chicago Bulls","Boston Celtics",87,104
+2017,"first",4,"Chicago Bulls","Boston Celtics",95,104
+2017,"first",5,"Boston Celtics","Chicago Bulls",108,97
+2017,"first",6,"Chicago Bulls","Boston Celtics",83,105
+2017,"first",1,"Cleveland Cavaliers","Indiana Pacers",109,108
+2017,"first",2,"Cleveland Cavaliers","Indiana Pacers",117,111
+2017,"first",3,"Indiana Pacers","Cleveland Cavaliers",114,119
+2017,"first",4,"Indiana Pacers","Cleveland Cavaliers",102,106
+2017,"first",1,"Toronto Raptors","Milwaukee Bucks",83,97
+2017,"first",2,"Toronto Raptors","Milwaukee Bucks",106,100
+2017,"first",3,"Milwaukee Bucks","Toronto Raptors",104,77
+2017,"first",4,"Milwaukee Bucks","Toronto Raptors",76,87
+2017,"first",5,"Toronto Raptors","Milwaukee Bucks",118,93
+2017,"first",6,"Milwaukee Bucks","Toronto Raptors",89,92
+2017,"first",1,"Washington Wizards","Atlanta Hawks",114,107
+2017,"first",2,"Washington Wizards","Atlanta Hawks",109,101
+2017,"first",3,"Atlanta Hawks","Washington Wizards",116,98
+2017,"first",4,"Atlanta Hawks","Washington Wizards",111,101
+2017,"first",5,"Washington Wizards","Atlanta Hawks",103,99
+2017,"first",6,"Atlanta Hawks","Washington Wizards",99,115
+2017,"first",1,"Golden State Warriors","Portland Trail Blazers",121,109
+2017,"first",2,"Golden State Warriors","Portland Trail Blazers",110,81
+2017,"first",3,"Portland Trail Blazers","Golden State Warriors",113,119
+2017,"first",4,"Portland Trail Blazers","Golden State Warriors",103,128
+2017,"first",1,"Houston Rockets","Oklahoma City Thunder",118,87
+2017,"first",2,"Houston Rockets","Oklahoma City Thunder",115,111
+2017,"first",3,"Oklahoma City Thunder","Houston Rockets",115,113
+2017,"first",4,"Oklahoma City Thunder","Houston Rockets",109,113
+2017,"first",5,"Houston Rockets","Oklahoma City Thunder",105,99
+2017,"first",1,"San Antonio Spurs","Memphis Grizzlies",111,82
+2017,"first",2,"San Antonio Spurs","Memphis Grizzlies",96,82
+2017,"first",3,"Memphis Grizzlies","San Antonio Spurs",105,94
+2017,"first",4,"Memphis Grizzlies","San Antonio Spurs",110,108
+2017,"first",5,"San Antonio Spurs","Memphis Grizzlies",116,103
+2017,"first",6,"Memphis Grizzlies","San Antonio Spurs",96,103
+2017,"first",1,"Los Angeles Clippers","Utah Jazz",95,97
+2017,"first",2,"Los Angeles Clippers","Utah Jazz",99,91
+2017,"first",3,"Utah Jazz","Los Angeles Clippers",106,111
+2017,"first",4,"Utah Jazz","Los Angeles Clippers",105,98
+2017,"first",5,"Los Angeles Clippers","Utah Jazz",92,96
+2017,"first",6,"Utah Jazz","Los Angeles Clippers",93,98
+2017,"first",7,"Los Angeles Clippers","Utah Jazz",91,104
+2016,"final",1,"Golden State Warriors","Cleveland Cavaliers",104,89
+2016,"final",2,"Golden State Warriors","Cleveland Cavaliers",110,77
+2016,"final",3,"Cleveland Cavaliers","Golden State Warriors",120,90
+2016,"final",4,"Cleveland Cavaliers","Golden State Warriors",97,108
+2016,"final",5,"Golden State Warriors","Cleveland Cavaliers",97,112
+2016,"final",6,"Cleveland Cavaliers","Golden State Warriors",115,101
+2016,"final",7,"Golden State Warriors","Cleveland Cavaliers",89,93
+2016,"third",1,"Cleveland Cavaliers","Toronto Raptors",115,84
+2016,"third",2,"Cleveland Cavaliers","Toronto Raptors",108,89
+2016,"third",3,"Toronto Raptors","Cleveland Cavaliers",99,84
+2016,"third",4,"Toronto Raptors","Cleveland Cavaliers",105,99
+2016,"third",5,"Cleveland Cavaliers","Toronto Raptors",116,78
+2016,"third",6,"Toronto Raptors","Cleveland Cavaliers",87,113
+2016,"third",1,"Golden State Warriors","Oklahoma City Thunder",102,108
+2016,"third",2,"Golden State Warriors","Oklahoma City Thunder",118,91
+2016,"third",3,"Oklahoma City Thunder","Golden State Warriors",133,105
+2016,"third",4,"Oklahoma City Thunder","Golden State Warriors",118,94
+2016,"third",5,"Golden State Warriors","Oklahoma City Thunder",120,111
+2016,"third",6,"Oklahoma City Thunder","Golden State Warriors",101,108
+2016,"third",7,"Golden State Warriors","Oklahoma City Thunder",96,88
+2016,"second",1,"Cleveland Cavaliers","Atlanta Hawks",104,93
+2016,"second",2,"Cleveland Cavaliers","Atlanta Hawks",123,98
+2016,"second",3,"Atlanta Hawks","Cleveland Cavaliers",108,121
+2016,"second",4,"Atlanta Hawks","Cleveland Cavaliers",99,100
+2016,"second",1,"Toronto Raptors","Miami Heat",96,102
+2016,"second",2,"Toronto Raptors","Miami Heat",96,92
+2016,"second",3,"Miami Heat","Toronto Raptors",91,95
+2016,"second",4,"Miami Heat","Toronto Raptors",94,87
+2016,"second",5,"Toronto Raptors","Miami Heat",99,91
+2016,"second",6,"Miami Heat","Toronto Raptors",103,91
+2016,"second",7,"Toronto Raptors","Miami Heat",116,89
+2016,"second",1,"Golden State Warriors","Portland Trail Blazers",118,106
+2016,"second",2,"Golden State Warriors","Portland Trail Blazers",110,99
+2016,"second",3,"Portland Trail Blazers","Golden State Warriors",120,108
+2016,"second",4,"Portland Trail Blazers","Golden State Warriors",125,132
+2016,"second",5,"Golden State Warriors","Portland Trail Blazers",125,121
+2016,"second",1,"San Antonio Spurs","Oklahoma City Thunder",124,92
+2016,"second",2,"San Antonio Spurs","Oklahoma City Thunder",97,98
+2016,"second",3,"Oklahoma City Thunder","San Antonio Spurs",96,100
+2016,"second",4,"Oklahoma City Thunder","San Antonio Spurs",111,97
+2016,"second",5,"San Antonio Spurs","Oklahoma City Thunder",91,95
+2016,"second",6,"Oklahoma City Thunder","San Antonio Spurs",113,99
+2016,"first",1,"Atlanta Hawks","Boston Celtics",102,101
+2016,"first",2,"Atlanta Hawks","Boston Celtics",89,72
+2016,"first",3,"Boston Celtics","Atlanta Hawks",111,103
+2016,"first",4,"Boston Celtics","Atlanta Hawks",104,95
+2016,"first",5,"Atlanta Hawks","Boston Celtics",110,83
+2016,"first",6,"Boston Celtics","Atlanta Hawks",92,104
+2016,"first",1,"Cleveland Cavaliers","Detroit Pistons",106,101
+2016,"first",2,"Cleveland Cavaliers","Detroit Pistons",107,90
+2016,"first",3,"Detroit Pistons","Cleveland Cavaliers",91,101
+2016,"first",4,"Detroit Pistons","Cleveland Cavaliers",98,100
+2016,"first",1,"Miami Heat","Charlotte Hornets",123,91
+2016,"first",2,"Miami Heat","Charlotte Hornets",115,103
+2016,"first",3,"Charlotte Hornets","Miami Heat",96,80
+2016,"first",4,"Charlotte Hornets","Miami Heat",89,85
+2016,"first",5,"Miami Heat","Charlotte Hornets",88,90
+2016,"first",6,"Charlotte Hornets","Miami Heat",90,97
+2016,"first",7,"Miami Heat","Charlotte Hornets",106,73
+2016,"first",1,"Toronto Raptors","Indiana Pacers",90,100
+2016,"first",2,"Toronto Raptors","Indiana Pacers",98,87
+2016,"first",3,"Indiana Pacers","Toronto Raptors",85,101
+2016,"first",4,"Indiana Pacers","Toronto Raptors",100,83
+2016,"first",5,"Toronto Raptors","Indiana Pacers",102,99
+2016,"first",6,"Indiana Pacers","Toronto Raptors",101,83
+2016,"first",7,"Toronto Raptors","Indiana Pacers",89,84
+2016,"first",1,"Golden State Warriors","Houston Rockets",104,78
+2016,"first",2,"Golden State Warriors","Houston Rockets",115,106
+2016,"first",3,"Houston Rockets","Golden State Warriors",97,96
+2016,"first",4,"Houston Rockets","Golden State Warriors",94,121
+2016,"first",5,"Golden State Warriors","Houston Rockets",114,81
+2016,"first",1,"Oklahoma City Thunder","Dallas Mavericks",108,70
+2016,"first",2,"Oklahoma City Thunder","Dallas Mavericks",84,85
+2016,"first",3,"Dallas Mavericks","Oklahoma City Thunder",102,131
+2016,"first",4,"Dallas Mavericks","Oklahoma City Thunder",108,119
+2016,"first",5,"Oklahoma City Thunder","Dallas Mavericks",118,104
+2016,"first",1,"Los Angeles Clippers","Portland Trail Blazers",115,95
+2016,"first",2,"Los Angeles Clippers","Portland Trail Blazers",102,81
+2016,"first",3,"Portland Trail Blazers","Los Angeles Clippers",96,88
+2016,"first",4,"Portland Trail Blazers","Los Angeles Clippers",98,84
+2016,"first",5,"Los Angeles Clippers","Portland Trail Blazers",98,108
+2016,"first",6,"Portland Trail Blazers","Los Angeles Clippers",106,103
+2016,"first",1,"San Antonio Spurs","Memphis Grizzlies",106,74
+2016,"first",2,"San Antonio Spurs","Memphis Grizzlies",94,68
+2016,"first",3,"Memphis Grizzlies","San Antonio Spurs",87,96
+2016,"first",4,"Memphis Grizzlies","San Antonio Spurs",95,116
+2015,"final",1,"Golden State Warriors","Cleveland Cavaliers",108,100
+2015,"final",2,"Golden State Warriors","Cleveland Cavaliers",93,95
+2015,"final",3,"Cleveland Cavaliers","Golden State Warriors",96,91
+2015,"final",4,"Cleveland Cavaliers","Golden State Warriors",82,103
+2015,"final",5,"Golden State Warriors","Cleveland Cavaliers",104,91
+2015,"final",6,"Cleveland Cavaliers","Golden State Warriors",97,105
+2015,"third",1,"Atlanta Hawks","Cleveland Cavaliers",89,97
+2015,"third",2,"Atlanta Hawks","Cleveland Cavaliers",82,94
+2015,"third",3,"Cleveland Cavaliers","Atlanta Hawks",114,111
+2015,"third",4,"Cleveland Cavaliers","Atlanta Hawks",118,88
+2015,"third",1,"Golden State Warriors","Houston Rockets",110,106
+2015,"third",2,"Golden State Warriors","Houston Rockets",99,98
+2015,"third",3,"Houston Rockets","Golden State Warriors",80,115
+2015,"third",4,"Houston Rockets","Golden State Warriors",128,115
+2015,"third",5,"Golden State Warriors","Houston Rockets",104,90
+2015,"second",1,"Atlanta Hawks","Washington Wizards",98,104
+2015,"second",2,"Atlanta Hawks","Washington Wizards",106,90
+2015,"second",3,"Washington Wizards","Atlanta Hawks",103,101
+2015,"second",4,"Washington Wizards","Atlanta Hawks",101,106
+2015,"second",5,"Atlanta Hawks","Washington Wizards",82,81
+2015,"second",6,"Washington Wizards","Atlanta Hawks",91,94
+2015,"second",1,"Cleveland Cavaliers","Chicago Bulls",92,99
+2015,"second",2,"Cleveland Cavaliers","Chicago Bulls",106,91
+2015,"second",3,"Chicago Bulls","Cleveland Cavaliers",99,96
+2015,"second",4,"Chicago Bulls","Cleveland Cavaliers",84,86
+2015,"second",5,"Cleveland Cavaliers","Chicago Bulls",106,101
+2015,"second",6,"Chicago Bulls","Cleveland Cavaliers",73,94
+2015,"second",1,"Golden State Warriors","Memphis Grizzlies",101,86
+2015,"second",2,"Golden State Warriors","Memphis Grizzlies",90,97
+2015,"second",3,"Memphis Grizzlies","Golden State Warriors",99,89
+2015,"second",4,"Memphis Grizzlies","Golden State Warriors",84,101
+2015,"second",5,"Golden State Warriors","Memphis Grizzlies",98,78
+2015,"second",6,"Memphis Grizzlies","Golden State Warriors",95,108
+2015,"second",1,"Houston Rockets","Los Angeles Clippers",101,117
+2015,"second",2,"Houston Rockets","Los Angeles Clippers",115,109
+2015,"second",3,"Los Angeles Clippers","Houston Rockets",124,99
+2015,"second",4,"Los Angeles Clippers","Houston Rockets",128,95
+2015,"second",5,"Houston Rockets","Los Angeles Clippers",124,103
+2015,"second",6,"Los Angeles Clippers","Houston Rockets",107,119
+2015,"second",7,"Houston Rockets","Los Angeles Clippers",113,100
+2015,"first",1,"Atlanta Hawks","Brooklyn Nets",99,92
+2015,"first",2,"Atlanta Hawks","Brooklyn Nets",96,91
+2015,"first",3,"Brooklyn Nets","Atlanta Hawks",91,83
+2015,"first",4,"Brooklyn Nets","Atlanta Hawks",120,115
+2015,"first",5,"Atlanta Hawks","Brooklyn Nets",107,97
+2015,"first",6,"Brooklyn Nets","Atlanta Hawks",87,111
+2015,"first",1,"Chicago Bulls","Milwaukee Bucks",103,91
+2015,"first",2,"Chicago Bulls","Milwaukee Bucks",91,82
+2015,"first",3,"Milwaukee Bucks","Chicago Bulls",106,113
+2015,"first",4,"Milwaukee Bucks","Chicago Bulls",92,90
+2015,"first",5,"Chicago Bulls","Milwaukee Bucks",88,94
+2015,"first",6,"Milwaukee Bucks","Chicago Bulls",66,120
+2015,"first",1,"Cleveland Cavaliers","Boston Celtics",113,100
+2015,"first",2,"Cleveland Cavaliers","Boston Celtics",99,91
+2015,"first",3,"Boston Celtics","Cleveland Cavaliers",95,103
+2015,"first",4,"Boston Celtics","Cleveland Cavaliers",93,101
+2015,"first",1,"Toronto Raptors","Washington Wizards",86,93
+2015,"first",2,"Toronto Raptors","Washington Wizards",106,117
+2015,"first",3,"Washington Wizards","Toronto Raptors",106,99
+2015,"first",4,"Washington Wizards","Toronto Raptors",125,94
+2015,"first",1,"Golden State Warriors","New Orleans Pelicans",106,99
+2015,"first",2,"Golden State Warriors","New Orleans Pelicans",97,87
+2015,"first",3,"New Orleans Pelicans","Golden State Warriors",119,123
+2015,"first",4,"New Orleans Pelicans","Golden State Warriors",98,109
+2015,"first",1,"Houston Rockets","Dallas Mavericks",118,108
+2015,"first",2,"Houston Rockets","Dallas Mavericks",111,99
+2015,"first",3,"Dallas Mavericks","Houston Rockets",128,130
+2015,"first",4,"Dallas Mavericks","Houston Rockets",121,109
+2015,"first",5,"Houston Rockets","Dallas Mavericks",103,94
+2015,"first",1,"Los Angeles Clippers","San Antonio Spurs",107,92
+2015,"first",2,"Los Angeles Clippers","San Antonio Spurs",107,111
+2015,"first",3,"San Antonio Spurs","Los Angeles Clippers",100,73
+2015,"first",4,"San Antonio Spurs","Los Angeles Clippers",105,114
+2015,"first",5,"Los Angeles Clippers","San Antonio Spurs",107,111
+2015,"first",6,"San Antonio Spurs","Los Angeles Clippers",96,102
+2015,"first",7,"Los Angeles Clippers","San Antonio Spurs",111,109
+2015,"first",1,"Memphis Grizzlies","Portland Trail Blazers",100,86
+2015,"first",2,"Memphis Grizzlies","Portland Trail Blazers",97,82
+2015,"first",3,"Portland Trail Blazers","Memphis Grizzlies",109,115
+2015,"first",4,"Portland Trail Blazers","Memphis Grizzlies",99,92
+2015,"first",5,"Memphis Grizzlies","Portland Trail Blazers",99,93
+2014,"final",1,"San Antonio Spurs","Miami Heat",110,95
+2014,"final",2,"San Antonio Spurs","Miami Heat",96,98
+2014,"final",3,"Miami Heat","San Antonio Spurs",92,111
+2014,"final",4,"Miami Heat","San Antonio Spurs",86,107
+2014,"final",5,"San Antonio Spurs","Miami Heat",104,87
+2014,"third",1,"Indiana Pacers","Miami Heat",107,96
+2014,"third",2,"Indiana Pacers","Miami Heat",83,87
+2014,"third",3,"Miami Heat","Indiana Pacers",99,87
+2014,"third",4,"Miami Heat","Indiana Pacers",102,90
+2014,"third",5,"Indiana Pacers","Miami Heat",93,90
+2014,"third",6,"Miami Heat","Indiana Pacers",117,92
+2014,"third",1,"San Antonio Spurs","Oklahoma City Thunder",122,105
+2014,"third",2,"San Antonio Spurs","Oklahoma City Thunder",112,77
+2014,"third",3,"Oklahoma City Thunder","San Antonio Spurs",106,97
+2014,"third",4,"Oklahoma City Thunder","San Antonio Spurs",105,92
+2014,"third",5,"San Antonio Spurs","Oklahoma City Thunder",117,89
+2014,"third",6,"Oklahoma City Thunder","San Antonio Spurs",107,112
+2014,"second",1,"Indiana Pacers","Washington Wizards",96,102
+2014,"second",2,"Indiana Pacers","Washington Wizards",86,82
+2014,"second",3,"Washington Wizards","Indiana Pacers",63,85
+2014,"second",4,"Washington Wizards","Indiana Pacers",92,95
+2014,"second",5,"Indiana Pacers","Washington Wizards",79,102
+2014,"second",6,"Washington Wizards","Indiana Pacers",80,93
+2014,"second",1,"Miami Heat","Brooklyn Nets",107,86
+2014,"second",2,"Miami Heat","Brooklyn Nets",94,82
+2014,"second",3,"Brooklyn Nets","Miami Heat",104,90
+2014,"second",4,"Brooklyn Nets","Miami Heat",96,102
+2014,"second",5,"Miami Heat","Brooklyn Nets",96,94
+2014,"second",1,"Oklahoma City Thunder","Los Angeles Clippers",105,122
+2014,"second",2,"Oklahoma City Thunder","Los Angeles Clippers",112,101
+2014,"second",3,"Los Angeles Clippers","Oklahoma City Thunder",112,118
+2014,"second",4,"Los Angeles Clippers","Oklahoma City Thunder",101,99
+2014,"second",5,"Oklahoma City Thunder","Los Angeles Clippers",105,104
+2014,"second",6,"Los Angeles Clippers","Oklahoma City Thunder",98,104
+2014,"second",1,"San Antonio Spurs","Portland Trail Blazers",116,92
+2014,"second",2,"San Antonio Spurs","Portland Trail Blazers",114,97
+2014,"second",3,"Portland Trail Blazers","San Antonio Spurs",103,118
+2014,"second",4,"Portland Trail Blazers","San Antonio Spurs",103,92
+2014,"second",5,"San Antonio Spurs","Portland Trail Blazers",104,82
+2014,"first",1,"Toronto Raptors","Brooklyn Nets",87,94
+2014,"first",2,"Toronto Raptors","Brooklyn Nets",100,95
+2014,"first",3,"Brooklyn Nets","Toronto Raptors",102,98
+2014,"first",4,"Brooklyn Nets","Toronto Raptors",79,87
+2014,"first",5,"Toronto Raptors","Brooklyn Nets",115,113
+2014,"first",6,"Brooklyn Nets","Toronto Raptors",97,83
+2014,"first",7,"Toronto Raptors","Brooklyn Nets",103,104
+2014,"first",1,"Indiana Pacers","Atlanta Hawks",93,101
+2014,"first",2,"Indiana Pacers","Atlanta Hawks",101,85
+2014,"first",3,"Atlanta Hawks","Indiana Pacers",98,85
+2014,"first",4,"Atlanta Hawks","Indiana Pacers",88,91
+2014,"first",5,"Indiana Pacers","Atlanta Hawks",97,107
+2014,"first",6,"Atlanta Hawks","Indiana Pacers",88,95
+2014,"first",7,"Indiana Pacers","Atlanta Hawks",92,80
+2014,"first",1,"Miami Heat","Charlotte Bobcats",99,88
+2014,"first",2,"Miami Heat","Charlotte Bobcats",101,97
+2014,"first",3,"Charlotte Bobcats","Miami Heat",85,98
+2014,"first",4,"Charlotte Bobcats","Miami Heat",98,109
+2014,"first",1,"Chicago Bulls","Washington Wizards",93,102
+2014,"first",2,"Chicago Bulls","Washington Wizards",99,101
+2014,"first",3,"Washington Wizards","Chicago Bulls",97,100
+2014,"first",4,"Washington Wizards","Chicago Bulls",98,89
+2014,"first",5,"Chicago Bulls","Washington Wizards",69,75
+2014,"first",1,"Los Angeles Clippers","Golden State Warriors",105,109
+2014,"first",2,"Los Angeles Clippers","Golden State Warriors",138,98
+2014,"first",3,"Golden State Warriors","Los Angeles Clippers",96,98
+2014,"first",4,"Golden State Warriors","Los Angeles Clippers",118,97
+2014,"first",5,"Los Angeles Clippers","Golden State Warriors",113,103
+2014,"first",6,"Golden State Warriors","Los Angeles Clippers",100,99
+2014,"first",7,"Los Angeles Clippers","Golden State Warriors",126,121
+2014,"first",1,"Oklahoma City Thunder","Memphis Grizzlies",100,86
+2014,"first",2,"Oklahoma City Thunder","Memphis Grizzlies",105,111
+2014,"first",3,"Memphis Grizzlies","Oklahoma City Thunder",98,95
+2014,"first",4,"Memphis Grizzlies","Oklahoma City Thunder",89,92
+2014,"first",5,"Oklahoma City Thunder","Memphis Grizzlies",99,100
+2014,"first",6,"Memphis Grizzlies","Oklahoma City Thunder",84,104
+2014,"first",7,"Oklahoma City Thunder","Memphis Grizzlies",120,109
+2014,"first",1,"Houston Rockets","Portland Trail Blazers",120,122
+2014,"first",2,"Houston Rockets","Portland Trail Blazers",105,112
+2014,"first",3,"Portland Trail Blazers","Houston Rockets",116,121
+2014,"first",4,"Portland Trail Blazers","Houston Rockets",123,120
+2014,"first",5,"Houston Rockets","Portland Trail Blazers",108,98
+2014,"first",6,"Portland Trail Blazers","Houston Rockets",99,98
+2014,"first",1,"San Antonio Spurs","Dallas Mavericks",90,85
+2014,"first",2,"San Antonio Spurs","Dallas Mavericks",92,113
+2014,"first",3,"Dallas Mavericks","San Antonio Spurs",109,108
+2014,"first",4,"Dallas Mavericks","San Antonio Spurs",89,93
+2014,"first",5,"San Antonio Spurs","Dallas Mavericks",109,103
+2014,"first",6,"Dallas Mavericks","San Antonio Spurs",113,111
+2014,"first",7,"San Antonio Spurs","Dallas Mavericks",119,96
+2013,"final",1,"Miami Heat","San Antonio Spurs",88,92
+2013,"final",2,"Miami Heat","San Antonio Spurs",103,84
+2013,"final",3,"San Antonio Spurs","Miami Heat",113,77
+2013,"final",4,"San Antonio Spurs","Miami Heat",93,109
+2013,"final",5,"San Antonio Spurs","Miami Heat",114,104
+2013,"final",6,"Miami Heat","San Antonio Spurs",103,100
+2013,"final",7,"Miami Heat","San Antonio Spurs",95,88
+2013,"third",1,"Miami Heat","Indiana Pacers",103,102
+2013,"third",2,"Miami Heat","Indiana Pacers",93,97
+2013,"third",3,"Indiana Pacers","Miami Heat",96,114
+2013,"third",4,"Indiana Pacers","Miami Heat",99,92
+2013,"third",5,"Miami Heat","Indiana Pacers",90,79
+2013,"third",6,"Indiana Pacers","Miami Heat",91,77
+2013,"third",7,"Miami Heat","Indiana Pacers",99,76
+2013,"third",1,"San Antonio Spurs","Memphis Grizzlies",105,83
+2013,"third",2,"San Antonio Spurs","Memphis Grizzlies",93,89
+2013,"third",3,"Memphis Grizzlies","San Antonio Spurs",93,104
+2013,"third",4,"Memphis Grizzlies","San Antonio Spurs",86,93
+2013,"second",1,"New York Knicks","Indiana Pacers",95,102
+2013,"second",2,"New York Knicks","Indiana Pacers",105,79
+2013,"second",3,"Indiana Pacers","New York Knicks",82,71
+2013,"second",4,"Indiana Pacers","New York Knicks",93,82
+2013,"second",5,"New York Knicks","Indiana Pacers",85,75
+2013,"second",6,"Indiana Pacers","New York Knicks",106,99
+2013,"second",1,"Miami Heat","Chicago Bulls",86,93
+2013,"second",2,"Miami Heat","Chicago Bulls",115,78
+2013,"second",3,"Chicago Bulls","Miami Heat",94,104
+2013,"second",4,"Chicago Bulls","Miami Heat",65,88
+2013,"second",5,"Miami Heat","Chicago Bulls",94,91
+2013,"second",1,"Oklahoma City Thunder","Memphis Grizzlies",93,91
+2013,"second",2,"Oklahoma City Thunder","Memphis Grizzlies",93,99
+2013,"second",3,"Memphis Grizzlies","Oklahoma City Thunder",87,81
+2013,"second",4,"Memphis Grizzlies","Oklahoma City Thunder",103,97
+2013,"second",5,"Oklahoma City Thunder","Memphis Grizzlies",84,88
+2013,"second",1,"San Antonio Spurs","Golden State Warriors",129,127
+2013,"second",2,"San Antonio Spurs","Golden State Warriors",91,100
+2013,"second",3,"Golden State Warriors","San Antonio Spurs",92,102
+2013,"second",4,"Golden State Warriors","San Antonio Spurs",97,87
+2013,"second",5,"San Antonio Spurs","Golden State Warriors",109,91
+2013,"second",6,"Golden State Warriors","San Antonio Spurs",82,94
+2013,"first",1,"Brooklyn Nets","Chicago Bulls",106,89
+2013,"first",2,"Brooklyn Nets","Chicago Bulls",82,90
+2013,"first",3,"Chicago Bulls","Brooklyn Nets",79,76
+2013,"first",4,"Chicago Bulls","Brooklyn Nets",142,134
+2013,"first",5,"Brooklyn Nets","Chicago Bulls",110,91
+2013,"first",6,"Chicago Bulls","Brooklyn Nets",92,95
+2013,"first",7,"Brooklyn Nets","Chicago Bulls",93,99
+2013,"first",1,"Indiana Pacers","Atlanta Hawks",107,90
+2013,"first",2,"Indiana Pacers","Atlanta Hawks",113,98
+2013,"first",3,"Atlanta Hawks","Indiana Pacers",90,69
+2013,"first",4,"Atlanta Hawks","Indiana Pacers",102,91
+2013,"first",5,"Indiana Pacers","Atlanta Hawks",106,83
+2013,"first",6,"Atlanta Hawks","Indiana Pacers",73,81
+2013,"first",1,"Miami Heat","Milwaukee Bucks",110,87
+2013,"first",2,"Miami Heat","Milwaukee Bucks",98,86
+2013,"first",3,"Milwaukee Bucks","Miami Heat",91,104
+2013,"first",4,"Milwaukee Bucks","Miami Heat",77,88
+2013,"first",1,"New York Knicks","Boston Celtics",85,78
+2013,"first",2,"New York Knicks","Boston Celtics",87,71
+2013,"first",3,"Boston Celtics","New York Knicks",76,90
+2013,"first",4,"Boston Celtics","New York Knicks",97,90
+2013,"first",5,"New York Knicks","Boston Celtics",86,92
+2013,"first",6,"Boston Celtics","New York Knicks",80,88
+2013,"first",1,"Denver Nuggets","Golden State Warriors",97,95
+2013,"first",2,"Denver Nuggets","Golden State Warriors",117,131
+2013,"first",3,"Golden State Warriors","Denver Nuggets",110,108
+2013,"first",4,"Golden State Warriors","Denver Nuggets",115,101
+2013,"first",5,"Denver Nuggets","Golden State Warriors",107,100
+2013,"first",6,"Golden State Warriors","Denver Nuggets",92,88
+2013,"first",1,"Los Angeles Clippers","Memphis Grizzlies",112,91
+2013,"first",2,"Los Angeles Clippers","Memphis Grizzlies",93,91
+2013,"first",3,"Memphis Grizzlies","Los Angeles Clippers",94,82
+2013,"first",4,"Memphis Grizzlies","Los Angeles Clippers",104,83
+2013,"first",5,"Los Angeles Clippers","Memphis Grizzlies",93,103
+2013,"first",6,"Memphis Grizzlies","Los Angeles Clippers",118,105
+2013,"first",1,"Oklahoma City Thunder","Houston Rockets",120,91
+2013,"first",2,"Oklahoma City Thunder","Houston Rockets",105,102
+2013,"first",3,"Houston Rockets","Oklahoma City Thunder",101,104
+2013,"first",4,"Houston Rockets","Oklahoma City Thunder",105,103
+2013,"first",5,"Oklahoma City Thunder","Houston Rockets",100,107
+2013,"first",6,"Houston Rockets","Oklahoma City Thunder",94,103
+2013,"first",1,"San Antonio Spurs","Los Angeles Lakers",91,79
+2013,"first",2,"San Antonio Spurs","Los Angeles Lakers",102,91
+2013,"first",3,"Los Angeles Lakers","San Antonio Spurs",89,120
+2013,"first",4,"Los Angeles Lakers","San Antonio Spurs",82,103
+2012,"final",1,"Oklahoma City Thunder","Miami Heat",105,94
+2012,"final",2,"Oklahoma City Thunder","Miami Heat",96,100
+2012,"final",3,"Miami Heat","Oklahoma City Thunder",91,85
+2012,"final",4,"Miami Heat","Oklahoma City Thunder",104,98
+2012,"final",5,"Miami Heat","Oklahoma City Thunder",121,106
+2012,"third",1,"Miami Heat","Boston Celtics",93,79
+2012,"third",2,"Miami Heat","Boston Celtics",115,111
+2012,"third",3,"Boston Celtics","Miami Heat",101,91
+2012,"third",4,"Boston Celtics","Miami Heat",93,91
+2012,"third",5,"Miami Heat","Boston Celtics",90,94
+2012,"third",6,"Boston Celtics","Miami Heat",79,98
+2012,"third",7,"Miami Heat","Boston Celtics",101,88
+2012,"third",1,"San Antonio Spurs","Oklahoma City Thunder",101,98
+2012,"third",2,"San Antonio Spurs","Oklahoma City Thunder",120,111
+2012,"third",3,"Oklahoma City Thunder","San Antonio Spurs",102,82
+2012,"third",4,"Oklahoma City Thunder","San Antonio Spurs",109,103
+2012,"third",5,"San Antonio Spurs","Oklahoma City Thunder",103,108
+2012,"third",6,"Oklahoma City Thunder","San Antonio Spurs",107,99
+2012,"second",1,"Boston Celtics","Philadelphia 76ers",92,91
+2012,"second",2,"Boston Celtics","Philadelphia 76ers",81,82
+2012,"second",3,"Philadelphia 76ers","Boston Celtics",91,107
+2012,"second",4,"Philadelphia 76ers","Boston Celtics",92,83
+2012,"second",5,"Boston Celtics","Philadelphia 76ers",101,85
+2012,"second",6,"Philadelphia 76ers","Boston Celtics",82,75
+2012,"second",7,"Boston Celtics","Philadelphia 76ers",85,75
+2012,"second",1,"Miami Heat","Indiana Pacers",95,86
+2012,"second",2,"Miami Heat","Indiana Pacers",75,78
+2012,"second",3,"Indiana Pacers","Miami Heat",94,75
+2012,"second",4,"Indiana Pacers","Miami Heat",93,101
+2012,"second",5,"Miami Heat","Indiana Pacers",115,83
+2012,"second",6,"Indiana Pacers","Miami Heat",93,105
+2012,"second",1,"Oklahoma City Thunder","Los Angeles Lakers",119,90
+2012,"second",2,"Oklahoma City Thunder","Los Angeles Lakers",77,75
+2012,"second",3,"Los Angeles Lakers","Oklahoma City Thunder",99,96
+2012,"second",4,"Los Angeles Lakers","Oklahoma City Thunder",100,103
+2012,"second",5,"Oklahoma City Thunder","Los Angeles Lakers",106,90
+2012,"second",1,"San Antonio Spurs","Los Angeles Clippers",108,92
+2012,"second",2,"San Antonio Spurs","Los Angeles Clippers",105,88
+2012,"second",3,"Los Angeles Clippers","San Antonio Spurs",86,96
+2012,"second",4,"Los Angeles Clippers","San Antonio Spurs",99,102
+2012,"first",1,"Atlanta Hawks","Boston Celtics",83,74
+2012,"first",2,"Atlanta Hawks","Boston Celtics",80,87
+2012,"first",3,"Boston Celtics","Atlanta Hawks",90,84
+2012,"first",4,"Boston Celtics","Atlanta Hawks",101,79
+2012,"first",5,"Atlanta Hawks","Boston Celtics",87,86
+2012,"first",6,"Boston Celtics","Atlanta Hawks",83,80
+2012,"first",1,"Indiana Pacers","Orlando Magic",77,81
+2012,"first",2,"Indiana Pacers","Orlando Magic",93,78
+2012,"first",3,"Orlando Magic","Indiana Pacers",74,97
+2012,"first",4,"Orlando Magic","Indiana Pacers",99,101
+2012,"first",5,"Indiana Pacers","Orlando Magic",105,87
+2012,"first",1,"Miami Heat","New York Knicks",100,67
+2012,"first",2,"Miami Heat","New York Knicks",104,94
+2012,"first",3,"New York Knicks","Miami Heat",70,87
+2012,"first",4,"New York Knicks","Miami Heat",89,87
+2012,"first",5,"Miami Heat","New York Knicks",106,94
+2012,"first",1,"Chicago Bulls","Philadelphia 76ers",103,91
+2012,"first",2,"Chicago Bulls","Philadelphia 76ers",92,109
+2012,"first",3,"Philadelphia 76ers","Chicago Bulls",79,74
+2012,"first",4,"Philadelphia 76ers","Chicago Bulls",89,82
+2012,"first",5,"Chicago Bulls","Philadelphia 76ers",77,69
+2012,"first",6,"Philadelphia 76ers","Chicago Bulls",79,78
+2012,"first",1,"Memphis Grizzlies","Los Angeles Clippers",98,99
+2012,"first",2,"Memphis Grizzlies","Los Angeles Clippers",105,98
+2012,"first",3,"Los Angeles Clippers","Memphis Grizzlies",87,86
+2012,"first",4,"Los Angeles Clippers","Memphis Grizzlies",101,97
+2012,"first",5,"Memphis Grizzlies","Los Angeles Clippers",92,80
+2012,"first",6,"Los Angeles Clippers","Memphis Grizzlies",88,90
+2012,"first",7,"Memphis Grizzlies","Los Angeles Clippers",72,82
+2012,"first",1,"Los Angeles Lakers","Denver Nuggets",103,88
+2012,"first",2,"Los Angeles Lakers","Denver Nuggets",104,100
+2012,"first",3,"Denver Nuggets","Los Angeles Lakers",99,84
+2012,"first",4,"Denver Nuggets","Los Angeles Lakers",88,92
+2012,"first",5,"Los Angeles Lakers","Denver Nuggets",99,102
+2012,"first",6,"Denver Nuggets","Los Angeles Lakers",113,96
+2012,"first",7,"Los Angeles Lakers","Denver Nuggets",96,87
+2012,"first",1,"Oklahoma City Thunder","Dallas Mavericks",99,98
+2012,"first",2,"Oklahoma City Thunder","Dallas Mavericks",102,99
+2012,"first",3,"Dallas Mavericks","Oklahoma City Thunder",79,95
+2012,"first",4,"Dallas Mavericks","Oklahoma City Thunder",97,103
+2012,"first",1,"San Antonio Spurs","Utah Jazz",106,91
+2012,"first",2,"San Antonio Spurs","Utah Jazz",114,83
+2012,"first",3,"Utah Jazz","San Antonio Spurs",90,102
+2012,"first",4,"Utah Jazz","San Antonio Spurs",81,87
+2011,"final",1,"Miami Heat","Dallas Mavericks",92,84
+2011,"final",2,"Miami Heat","Dallas Mavericks",93,95
+2011,"final",3,"Dallas Mavericks","Miami Heat",86,88
+2011,"final",4,"Dallas Mavericks","Miami Heat",86,83
+2011,"final",5,"Dallas Mavericks","Miami Heat",112,103
+2011,"final",6,"Miami Heat","Dallas Mavericks",95,105
+2011,"third",1,"Chicago Bulls","Miami Heat",103,82
+2011,"third",2,"Chicago Bulls","Miami Heat",75,85
+2011,"third",3,"Miami Heat","Chicago Bulls",96,85
+2011,"third",4,"Miami Heat","Chicago Bulls",101,93
+2011,"third",5,"Chicago Bulls","Miami Heat",80,83
+2011,"third",1,"Dallas Mavericks","Oklahoma City Thunder",121,112
+2011,"third",2,"Dallas Mavericks","Oklahoma City Thunder",100,106
+2011,"third",3,"Oklahoma City Thunder","Dallas Mavericks",87,93
+2011,"third",4,"Oklahoma City Thunder","Dallas Mavericks",105,112
+2011,"third",5,"Dallas Mavericks","Oklahoma City Thunder",100,96
+2011,"second",1,"Chicago Bulls","Atlanta Hawks",95,103
+2011,"second",2,"Chicago Bulls","Atlanta Hawks",86,73
+2011,"second",3,"Atlanta Hawks","Chicago Bulls",82,99
+2011,"second",4,"Atlanta Hawks","Chicago Bulls",100,88
+2011,"second",5,"Chicago Bulls","Atlanta Hawks",95,83
+2011,"second",6,"Atlanta Hawks","Chicago Bulls",73,93
+2011,"second",1,"Miami Heat","Boston Celtics",99,90
+2011,"second",2,"Miami Heat","Boston Celtics",102,91
+2011,"second",3,"Boston Celtics","Miami Heat",97,81
+2011,"second",4,"Boston Celtics","Miami Heat",90,98
+2011,"second",5,"Miami Heat","Boston Celtics",97,87
+2011,"second",1,"Los Angeles Lakers","Dallas Mavericks",94,96
+2011,"second",2,"Los Angeles Lakers","Dallas Mavericks",81,93
+2011,"second",3,"Dallas Mavericks","Los Angeles Lakers",98,92
+2011,"second",4,"Dallas Mavericks","Los Angeles Lakers",122,86
+2011,"second",1,"Oklahoma City Thunder","Memphis Grizzlies",101,114
+2011,"second",2,"Oklahoma City Thunder","Memphis Grizzlies",111,102
+2011,"second",3,"Memphis Grizzlies","Oklahoma City Thunder",101,93
+2011,"second",4,"Memphis Grizzlies","Oklahoma City Thunder",123,133
+2011,"second",5,"Oklahoma City Thunder","Memphis Grizzlies",99,72
+2011,"second",6,"Memphis Grizzlies","Oklahoma City Thunder",95,83
+2011,"second",7,"Oklahoma City Thunder","Memphis Grizzlies",105,90
+2011,"first",1,"Orlando Magic","Atlanta Hawks",93,103
+2011,"first",2,"Orlando Magic","Atlanta Hawks",88,82
+2011,"first",3,"Atlanta Hawks","Orlando Magic",88,84
+2011,"first",4,"Atlanta Hawks","Orlando Magic",88,85
+2011,"first",5,"Orlando Magic","Atlanta Hawks",101,76
+2011,"first",6,"Atlanta Hawks","Orlando Magic",84,81
+2011,"first",1,"Boston Celtics","New York Knicks",87,85
+2011,"first",2,"Boston Celtics","New York Knicks",96,93
+2011,"first",3,"New York Knicks","Boston Celtics",96,113
+2011,"first",4,"New York Knicks","Boston Celtics",89,101
+2011,"first",1,"Chicago Bulls","Indiana Pacers",104,99
+2011,"first",2,"Chicago Bulls","Indiana Pacers",96,90
+2011,"first",3,"Indiana Pacers","Chicago Bulls",84,88
+2011,"first",4,"Indiana Pacers","Chicago Bulls",89,84
+2011,"first",5,"Chicago Bulls","Indiana Pacers",116,89
+2011,"first",1,"Miami Heat","Philadelphia 76ers",97,89
+2011,"first",2,"Miami Heat","Philadelphia 76ers",94,73
+2011,"first",3,"Philadelphia 76ers","Miami Heat",94,100
+2011,"first",4,"Philadelphia 76ers","Miami Heat",86,82
+2011,"first",5,"Miami Heat","Philadelphia 76ers",97,91
+2011,"first",1,"Dallas Mavericks","Portland Trail Blazers",89,81
+2011,"first",2,"Dallas Mavericks","Portland Trail Blazers",101,89
+2011,"first",3,"Portland Trail Blazers","Dallas Mavericks",97,92
+2011,"first",4,"Portland Trail Blazers","Dallas Mavericks",84,82
+2011,"first",5,"Dallas Mavericks","Portland Trail Blazers",93,82
+2011,"first",6,"Portland Trail Blazers","Dallas Mavericks",96,103
+2011,"first",1,"Los Angeles Lakers","New Orleans Hornets",100,109
+2011,"first",2,"Los Angeles Lakers","New Orleans Hornets",87,78
+2011,"first",3,"New Orleans Hornets","Los Angeles Lakers",86,100
+2011,"first",4,"New Orleans Hornets","Los Angeles Lakers",93,88
+2011,"first",5,"Los Angeles Lakers","New Orleans Hornets",106,90
+2011,"first",6,"New Orleans Hornets","Los Angeles Lakers",80,98
+2011,"first",1,"San Antonio Spurs","Memphis Grizzlies",98,101
+2011,"first",2,"San Antonio Spurs","Memphis Grizzlies",93,87
+2011,"first",3,"Memphis Grizzlies","San Antonio Spurs",91,88
+2011,"first",4,"Memphis Grizzlies","San Antonio Spurs",104,86
+2011,"first",5,"San Antonio Spurs","Memphis Grizzlies",110,103
+2011,"first",6,"Memphis Grizzlies","San Antonio Spurs",99,91
+2011,"first",1,"Oklahoma City Thunder","Denver Nuggets",107,103
+2011,"first",2,"Oklahoma City Thunder","Denver Nuggets",106,89
+2011,"first",3,"Denver Nuggets","Oklahoma City Thunder",94,97
+2011,"first",4,"Denver Nuggets","Oklahoma City Thunder",104,101
+2011,"first",5,"Oklahoma City Thunder","Denver Nuggets",100,97
+2010,"final",1,"Los Angeles Lakers","Boston Celtics",102,89
+2010,"final",2,"Los Angeles Lakers","Boston Celtics",94,103
+2010,"final",3,"Boston Celtics","Los Angeles Lakers",84,91
+2010,"final",4,"Boston Celtics","Los Angeles Lakers",96,89
+2010,"final",5,"Boston Celtics","Los Angeles Lakers",92,86
+2010,"final",6,"Los Angeles Lakers","Boston Celtics",89,67
+2010,"final",7,"Los Angeles Lakers","Boston Celtics",83,79
+2010,"third",1,"Orlando Magic","Boston Celtics",88,92
+2010,"third",2,"Orlando Magic","Boston Celtics",92,95
+2010,"third",3,"Boston Celtics","Orlando Magic",94,71
+2010,"third",4,"Boston Celtics","Orlando Magic",92,96
+2010,"third",5,"Orlando Magic","Boston Celtics",113,92
+2010,"third",6,"Boston Celtics","Orlando Magic",96,84
+2010,"third",1,"Los Angeles Lakers","Phoenix Suns",128,107
+2010,"third",2,"Los Angeles Lakers","Phoenix Suns",124,112
+2010,"third",3,"Phoenix Suns","Los Angeles Lakers",118,109
+2010,"third",4,"Phoenix Suns","Los Angeles Lakers",115,106
+2010,"third",5,"Los Angeles Lakers","Phoenix Suns",103,101
+2010,"third",6,"Phoenix Suns","Los Angeles Lakers",103,111
+2010,"second",1,"Cleveland Cavaliers","Boston Celtics",101,93
+2010,"second",2,"Cleveland Cavaliers","Boston Celtics",86,104
+2010,"second",3,"Boston Celtics","Cleveland Cavaliers",95,124
+2010,"second",4,"Boston Celtics","Cleveland Cavaliers",97,87
+2010,"second",5,"Cleveland Cavaliers","Boston Celtics",88,120
+2010,"second",6,"Boston Celtics","Cleveland Cavaliers",94,85
+2010,"second",1,"Orlando Magic","Atlanta Hawks",114,71
+2010,"second",2,"Orlando Magic","Atlanta Hawks",112,98
+2010,"second",3,"Atlanta Hawks","Orlando Magic",75,105
+2010,"second",4,"Atlanta Hawks","Orlando Magic",84,98
+2010,"second",1,"Los Angeles Lakers","Utah Jazz",104,99
+2010,"second",2,"Los Angeles Lakers","Utah Jazz",111,103
+2010,"second",3,"Utah Jazz","Los Angeles Lakers",110,111
+2010,"second",4,"Utah Jazz","Los Angeles Lakers",96,111
+2010,"second",1,"Phoenix Suns","San Antonio Spurs",111,102
+2010,"second",2,"Phoenix Suns","San Antonio Spurs",110,102
+2010,"second",3,"San Antonio Spurs","Phoenix Suns",96,110
+2010,"second",4,"San Antonio Spurs","Phoenix Suns",101,107
+2010,"first",1,"Atlanta Hawks","Milwaukee Bucks",102,92
+2010,"first",2,"Atlanta Hawks","Milwaukee Bucks",96,86
+2010,"first",3,"Milwaukee Bucks","Atlanta Hawks",107,89
+2010,"first",4,"Milwaukee Bucks","Atlanta Hawks",111,104
+2010,"first",5,"Atlanta Hawks","Milwaukee Bucks",87,91
+2010,"first",6,"Milwaukee Bucks","Atlanta Hawks",69,83
+2010,"first",7,"Atlanta Hawks","Milwaukee Bucks",95,74
+2010,"first",1,"Boston Celtics","Miami Heat",85,76
+2010,"first",2,"Boston Celtics","Miami Heat",106,77
+2010,"first",3,"Miami Heat","Boston Celtics",98,100
+2010,"first",4,"Miami Heat","Boston Celtics",101,92
+2010,"first",5,"Boston Celtics","Miami Heat",96,86
+2010,"first",1,"Cleveland Cavaliers","Chicago Bulls",96,83
+2010,"first",2,"Cleveland Cavaliers","Chicago Bulls",112,102
+2010,"first",3,"Chicago Bulls","Cleveland Cavaliers",108,106
+2010,"first",4,"Chicago Bulls","Cleveland Cavaliers",98,121
+2010,"first",5,"Cleveland Cavaliers","Chicago Bulls",96,94
+2010,"first",1,"Orlando Magic","Charlotte Bobcats",98,89
+2010,"first",2,"Orlando Magic","Charlotte Bobcats",92,77
+2010,"first",3,"Charlotte Bobcats","Orlando Magic",86,90
+2010,"first",4,"Charlotte Bobcats","Orlando Magic",90,99
+2010,"first",1,"Los Angeles Lakers","Oklahoma City Thunder",87,79
+2010,"first",2,"Los Angeles Lakers","Oklahoma City Thunder",95,92
+2010,"first",3,"Oklahoma City Thunder","Los Angeles Lakers",101,96
+2010,"first",4,"Oklahoma City Thunder","Los Angeles Lakers",110,89
+2010,"first",5,"Los Angeles Lakers","Oklahoma City Thunder",111,87
+2010,"first",6,"Oklahoma City Thunder","Los Angeles Lakers",94,95
+2010,"first",1,"Phoenix Suns","Portland Trail Blazers",100,105
+2010,"first",2,"Phoenix Suns","Portland Trail Blazers",119,90
+2010,"first",3,"Portland Trail Blazers","Phoenix Suns",89,108
+2010,"first",4,"Portland Trail Blazers","Phoenix Suns",96,87
+2010,"first",5,"Phoenix Suns","Portland Trail Blazers",107,88
+2010,"first",6,"Portland Trail Blazers","Phoenix Suns",90,99
+2010,"first",1,"Dallas Mavericks","San Antonio Spurs",100,94
+2010,"first",2,"Dallas Mavericks","San Antonio Spurs",88,102
+2010,"first",3,"San Antonio Spurs","Dallas Mavericks",94,90
+2010,"first",4,"San Antonio Spurs","Dallas Mavericks",92,89
+2010,"first",5,"Dallas Mavericks","San Antonio Spurs",103,81
+2010,"first",6,"San Antonio Spurs","Dallas Mavericks",97,87
+2010,"first",1,"Denver Nuggets","Utah Jazz",126,113
+2010,"first",2,"Denver Nuggets","Utah Jazz",111,114
+2010,"first",3,"Utah Jazz","Denver Nuggets",105,93
+2010,"first",4,"Utah Jazz","Denver Nuggets",117,106
+2010,"first",5,"Denver Nuggets","Utah Jazz",116,102
+2010,"first",6,"Utah Jazz","Denver Nuggets",112,104
+2009,"final",1,"Los Angeles Lakers","Orlando Magic",100,75
+2009,"final",2,"Los Angeles Lakers","Orlando Magic",101,96
+2009,"final",3,"Orlando Magic","Los Angeles Lakers",108,104
+2009,"final",4,"Orlando Magic","Los Angeles Lakers",91,99
+2009,"final",5,"Orlando Magic","Los Angeles Lakers",86,99
+2009,"third",1,"Cleveland Cavaliers","Orlando Magic",106,107
+2009,"third",2,"Cleveland Cavaliers","Orlando Magic",96,95
+2009,"third",3,"Orlando Magic","Cleveland Cavaliers",99,89
+2009,"third",4,"Orlando Magic","Cleveland Cavaliers",116,114
+2009,"third",5,"Cleveland Cavaliers","Orlando Magic",112,102
+2009,"third",6,"Orlando Magic","Cleveland Cavaliers",103,90
+2009,"third",1,"Los Angeles Lakers","Denver Nuggets",105,103
+2009,"third",2,"Los Angeles Lakers","Denver Nuggets",103,106
+2009,"third",3,"Denver Nuggets","Los Angeles Lakers",97,103
+2009,"third",4,"Denver Nuggets","Los Angeles Lakers",120,101
+2009,"third",5,"Los Angeles Lakers","Denver Nuggets",103,94
+2009,"third",6,"Denver Nuggets","Los Angeles Lakers",92,119
+2009,"second",1,"Cleveland Cavaliers","Atlanta Hawks",99,72
+2009,"second",2,"Cleveland Cavaliers","Atlanta Hawks",105,85
+2009,"second",3,"Atlanta Hawks","Cleveland Cavaliers",82,97
+2009,"second",4,"Atlanta Hawks","Cleveland Cavaliers",74,84
+2009,"second",1,"Boston Celtics","Orlando Magic",90,95
+2009,"second",2,"Boston Celtics","Orlando Magic",112,94
+2009,"second",3,"Orlando Magic","Boston Celtics",117,96
+2009,"second",4,"Orlando Magic","Boston Celtics",94,95
+2009,"second",5,"Boston Celtics","Orlando Magic",92,88
+2009,"second",6,"Orlando Magic","Boston Celtics",83,75
+2009,"second",7,"Boston Celtics","Orlando Magic",82,101
+2009,"second",1,"Denver Nuggets","Dallas Mavericks",109,95
+2009,"second",2,"Denver Nuggets","Dallas Mavericks",117,105
+2009,"second",3,"Dallas Mavericks","Denver Nuggets",105,106
+2009,"second",4,"Dallas Mavericks","Denver Nuggets",119,117
+2009,"second",5,"Denver Nuggets","Dallas Mavericks",124,110
+2009,"second",1,"Los Angeles Lakers","Houston Rockets",92,100
+2009,"second",2,"Los Angeles Lakers","Houston Rockets",111,98
+2009,"second",3,"Houston Rockets","Los Angeles Lakers",94,108
+2009,"second",4,"Houston Rockets","Los Angeles Lakers",99,87
+2009,"second",5,"Los Angeles Lakers","Houston Rockets",118,78
+2009,"second",6,"Houston Rockets","Los Angeles Lakers",95,80
+2009,"second",7,"Los Angeles Lakers","Houston Rockets",89,70
+2009,"first",1,"Atlanta Hawks","Miami Heat",90,64
+2009,"first",2,"Atlanta Hawks","Miami Heat",93,108
+2009,"first",3,"Miami Heat","Atlanta Hawks",107,78
+2009,"first",4,"Miami Heat","Atlanta Hawks",71,81
+2009,"first",5,"Atlanta Hawks","Miami Heat",106,91
+2009,"first",6,"Miami Heat","Atlanta Hawks",98,72
+2009,"first",7,"Atlanta Hawks","Miami Heat",91,78
+2009,"first",1,"Boston Celtics","Chicago Bulls",103,105
+2009,"first",2,"Boston Celtics","Chicago Bulls",118,115
+2009,"first",3,"Chicago Bulls","Boston Celtics",86,107
+2009,"first",4,"Chicago Bulls","Boston Celtics",121,118
+2009,"first",5,"Boston Celtics","Chicago Bulls",106,104
+2009,"first",6,"Chicago Bulls","Boston Celtics",128,127
+2009,"first",7,"Boston Celtics","Chicago Bulls",109,99
+2009,"first",1,"Cleveland Cavaliers","Detroit Pistons",102,84
+2009,"first",2,"Cleveland Cavaliers","Detroit Pistons",94,82
+2009,"first",3,"Detroit Pistons","Cleveland Cavaliers",68,79
+2009,"first",4,"Detroit Pistons","Cleveland Cavaliers",78,99
+2009,"first",1,"Orlando Magic","Philadelphia 76ers",98,100
+2009,"first",2,"Orlando Magic","Philadelphia 76ers",96,87
+2009,"first",3,"Philadelphia 76ers","Orlando Magic",96,94
+2009,"first",4,"Philadelphia 76ers","Orlando Magic",81,84
+2009,"first",5,"Orlando Magic","Philadelphia 76ers",91,78
+2009,"first",6,"Philadelphia 76ers","Orlando Magic",89,114
+2009,"first",1,"San Antonio Spurs","Dallas Mavericks",97,105
+2009,"first",2,"San Antonio Spurs","Dallas Mavericks",105,84
+2009,"first",3,"Dallas Mavericks","San Antonio Spurs",88,67
+2009,"first",4,"Dallas Mavericks","San Antonio Spurs",99,90
+2009,"first",5,"San Antonio Spurs","Dallas Mavericks",93,106
+2009,"first",1,"Denver Nuggets","New Orleans Hornets",113,84
+2009,"first",2,"Denver Nuggets","New Orleans Hornets",108,93
+2009,"first",3,"New Orleans Hornets","Denver Nuggets",95,93
+2009,"first",4,"New Orleans Hornets","Denver Nuggets",63,121
+2009,"first",5,"Denver Nuggets","New Orleans Hornets",107,86
+2009,"first",1,"Portland Trail Blazers","Houston Rockets",81,108
+2009,"first",2,"Portland Trail Blazers","Houston Rockets",107,103
+2009,"first",3,"Houston Rockets","Portland Trail Blazers",86,83
+2009,"first",4,"Houston Rockets","Portland Trail Blazers",89,88
+2009,"first",5,"Portland Trail Blazers","Houston Rockets",88,77
+2009,"first",6,"Houston Rockets","Portland Trail Blazers",92,76
+2009,"first",1,"Los Angeles Lakers","Utah Jazz",113,100
+2009,"first",2,"Los Angeles Lakers","Utah Jazz",119,109
+2009,"first",3,"Utah Jazz","Los Angeles Lakers",88,86
+2009,"first",4,"Utah Jazz","Los Angeles Lakers",94,108
+2009,"first",5,"Los Angeles Lakers","Utah Jazz",107,96
+2008,"final",1,"Boston Celtics","Los Angeles Lakers",98,88
+2008,"final",2,"Boston Celtics","Los Angeles Lakers",108,102
+2008,"final",3,"Los Angeles Lakers","Boston Celtics",87,81
+2008,"final",4,"Los Angeles Lakers","Boston Celtics",91,97
+2008,"final",5,"Los Angeles Lakers","Boston Celtics",103,98
+2008,"final",6,"Boston Celtics","Los Angeles Lakers",131,92
+2008,"third",1,"Boston Celtics","Detroit Pistons",88,79
+2008,"third",2,"Boston Celtics","Detroit Pistons",97,103
+2008,"third",3,"Detroit Pistons","Boston Celtics",80,94
+2008,"third",4,"Detroit Pistons","Boston Celtics",94,75
+2008,"third",5,"Boston Celtics","Detroit Pistons",106,102
+2008,"third",6,"Detroit Pistons","Boston Celtics",81,89
+2008,"third",1,"Los Angeles Lakers","San Antonio Spurs",89,85
+2008,"third",2,"Los Angeles Lakers","San Antonio Spurs",101,71
+2008,"third",3,"San Antonio Spurs","Los Angeles Lakers",103,84
+2008,"third",4,"San Antonio Spurs","Los Angeles Lakers",91,93
+2008,"third",5,"Los Angeles Lakers","San Antonio Spurs",100,92
+2008,"second",1,"Boston Celtics","Cleveland Cavaliers",76,72
+2008,"second",2,"Boston Celtics","Cleveland Cavaliers",89,73
+2008,"second",3,"Cleveland Cavaliers","Boston Celtics",108,84
+2008,"second",4,"Cleveland Cavaliers","Boston Celtics",88,77
+2008,"second",5,"Boston Celtics","Cleveland Cavaliers",96,89
+2008,"second",6,"Cleveland Cavaliers","Boston Celtics",74,69
+2008,"second",7,"Boston Celtics","Cleveland Cavaliers",97,92
+2008,"second",1,"Detroit Pistons","Orlando Magic",91,72
+2008,"second",2,"Detroit Pistons","Orlando Magic",100,93
+2008,"second",3,"Orlando Magic","Detroit Pistons",111,86
+2008,"second",4,"Orlando Magic","Detroit Pistons",89,90
+2008,"second",5,"Detroit Pistons","Orlando Magic",91,86
+2008,"second",1,"Los Angeles Lakers","Utah Jazz",109,98
+2008,"second",2,"Los Angeles Lakers","Utah Jazz",120,110
+2008,"second",3,"Utah Jazz","Los Angeles Lakers",104,99
+2008,"second",4,"Utah Jazz","Los Angeles Lakers",123,115
+2008,"second",5,"Los Angeles Lakers","Utah Jazz",111,104
+2008,"second",6,"Utah Jazz","Los Angeles Lakers",105,108
+2008,"second",1,"New Orleans Hornets","San Antonio Spurs",101,82
+2008,"second",2,"New Orleans Hornets","San Antonio Spurs",102,84
+2008,"second",3,"San Antonio Spurs","New Orleans Hornets",110,99
+2008,"second",4,"San Antonio Spurs","New Orleans Hornets",100,80
+2008,"second",5,"New Orleans Hornets","San Antonio Spurs",101,79
+2008,"second",6,"San Antonio Spurs","New Orleans Hornets",99,80
+2008,"second",7,"New Orleans Hornets","San Antonio Spurs",82,91
+2008,"first",1,"Boston Celtics","Atlanta Hawks",104,81
+2008,"first",2,"Boston Celtics","Atlanta Hawks",96,77
+2008,"first",3,"Atlanta Hawks","Boston Celtics",102,93
+2008,"first",4,"Atlanta Hawks","Boston Celtics",97,92
+2008,"first",5,"Boston Celtics","Atlanta Hawks",110,85
+2008,"first",6,"Atlanta Hawks","Boston Celtics",103,100
+2008,"first",7,"Boston Celtics","Atlanta Hawks",99,65
+2008,"first",1,"Cleveland Cavaliers","Washington Wizards",93,86
+2008,"first",2,"Cleveland Cavaliers","Washington Wizards",116,86
+2008,"first",3,"Washington Wizards","Cleveland Cavaliers",108,72
+2008,"first",4,"Washington Wizards","Cleveland Cavaliers",97,100
+2008,"first",5,"Cleveland Cavaliers","Washington Wizards",87,88
+2008,"first",6,"Washington Wizards","Cleveland Cavaliers",88,105
+2008,"first",1,"Detroit Pistons","Philadelphia 76ers",86,90
+2008,"first",2,"Detroit Pistons","Philadelphia 76ers",105,88
+2008,"first",3,"Philadelphia 76ers","Detroit Pistons",95,75
+2008,"first",4,"Philadelphia 76ers","Detroit Pistons",84,93
+2008,"first",5,"Detroit Pistons","Philadelphia 76ers",98,81
+2008,"first",6,"Philadelphia 76ers","Detroit Pistons",77,100
+2008,"first",1,"Orlando Magic","Toronto Raptors",114,100
+2008,"first",2,"Orlando Magic","Toronto Raptors",104,103
+2008,"first",3,"Toronto Raptors","Orlando Magic",108,94
+2008,"first",4,"Toronto Raptors","Orlando Magic",94,106
+2008,"first",5,"Orlando Magic","Toronto Raptors",102,92
+2008,"first",1,"Los Angeles Lakers","Denver Nuggets",128,114
+2008,"first",2,"Los Angeles Lakers","Denver Nuggets",122,107
+2008,"first",3,"Denver Nuggets","Los Angeles Lakers",84,102
+2008,"first",4,"Denver Nuggets","Los Angeles Lakers",101,107
+2008,"first",1,"New Orleans Hornets","Dallas Mavericks",104,92
+2008,"first",2,"New Orleans Hornets","Dallas Mavericks",127,103
+2008,"first",3,"Dallas Mavericks","New Orleans Hornets",97,87
+2008,"first",4,"Dallas Mavericks","New Orleans Hornets",84,97
+2008,"first",5,"New Orleans Hornets","Dallas Mavericks",99,94
+2008,"first",1,"San Antonio Spurs","Phoenix Suns",117,115
+2008,"first",2,"San Antonio Spurs","Phoenix Suns",102,96
+2008,"first",3,"Phoenix Suns","San Antonio Spurs",99,115
+2008,"first",4,"Phoenix Suns","San Antonio Spurs",105,86
+2008,"first",5,"San Antonio Spurs","Phoenix Suns",92,87
+2008,"first",1,"Houston Rockets","Utah Jazz",82,93
+2008,"first",2,"Houston Rockets","Utah Jazz",84,90
+2008,"first",3,"Utah Jazz","Houston Rockets",92,94
+2008,"first",4,"Utah Jazz","Houston Rockets",86,82
+2008,"first",5,"Houston Rockets","Utah Jazz",95,69
+2008,"first",6,"Utah Jazz","Houston Rockets",113,91
+2007,"final",1,"San Antonio Spurs","Cleveland Cavaliers",85,76
+2007,"final",2,"San Antonio Spurs","Cleveland Cavaliers",103,92
+2007,"final",3,"Cleveland Cavaliers","San Antonio Spurs",72,75
+2007,"final",4,"Cleveland Cavaliers","San Antonio Spurs",82,83
+2007,"third",1,"Detroit Pistons","Cleveland Cavaliers",79,76
+2007,"third",2,"Detroit Pistons","Cleveland Cavaliers",79,76
+2007,"third",3,"Cleveland Cavaliers","Detroit Pistons",88,82
+2007,"third",4,"Cleveland Cavaliers","Detroit Pistons",91,87
+2007,"third",5,"Detroit Pistons","Cleveland Cavaliers",107,109
+2007,"third",6,"Cleveland Cavaliers","Detroit Pistons",98,82
+2007,"third",1,"San Antonio Spurs","Utah Jazz",108,100
+2007,"third",2,"San Antonio Spurs","Utah Jazz",105,96
+2007,"third",3,"Utah Jazz","San Antonio Spurs",109,83
+2007,"third",4,"Utah Jazz","San Antonio Spurs",79,91
+2007,"third",5,"San Antonio Spurs","Utah Jazz",109,84
+2007,"second",1,"Cleveland Cavaliers","New Jersey Nets",81,77
+2007,"second",2,"Cleveland Cavaliers","New Jersey Nets",102,92
+2007,"second",3,"New Jersey Nets","Cleveland Cavaliers",96,85
+2007,"second",4,"New Jersey Nets","Cleveland Cavaliers",85,87
+2007,"second",5,"Cleveland Cavaliers","New Jersey Nets",72,83
+2007,"second",6,"New Jersey Nets","Cleveland Cavaliers",72,88
+2007,"second",1,"Detroit Pistons","Chicago Bulls",95,69
+2007,"second",2,"Detroit Pistons","Chicago Bulls",108,87
+2007,"second",3,"Chicago Bulls","Detroit Pistons",74,81
+2007,"second",4,"Chicago Bulls","Detroit Pistons",102,87
+2007,"second",5,"Detroit Pistons","Chicago Bulls",92,108
+2007,"second",6,"Chicago Bulls","Detroit Pistons",85,95
+2007,"second",1,"Phoenix Suns","San Antonio Spurs",106,111
+2007,"second",2,"Phoenix Suns","San Antonio Spurs",101,81
+2007,"second",3,"San Antonio Spurs","Phoenix Suns",108,101
+2007,"second",4,"San Antonio Spurs","Phoenix Suns",98,104
+2007,"second",5,"Phoenix Suns","San Antonio Spurs",85,88
+2007,"second",6,"San Antonio Spurs","Phoenix Suns",114,106
+2007,"second",1,"Utah Jazz","Golden State Warriors",116,112
+2007,"second",2,"Utah Jazz","Golden State Warriors",127,117
+2007,"second",3,"Golden State Warriors","Utah Jazz",125,105
+2007,"second",4,"Golden State Warriors","Utah Jazz",101,115
+2007,"second",5,"Utah Jazz","Golden State Warriors",100,87
+2007,"first",1,"Chicago Bulls","Miami Heat",96,91
+2007,"first",2,"Chicago Bulls","Miami Heat",107,89
+2007,"first",3,"Miami Heat","Chicago Bulls",96,104
+2007,"first",4,"Miami Heat","Chicago Bulls",79,92
+2007,"first",1,"Cleveland Cavaliers","Washington Wizards",97,82
+2007,"first",2,"Cleveland Cavaliers","Washington Wizards",109,102
+2007,"first",3,"Washington Wizards","Cleveland Cavaliers",92,98
+2007,"first",4,"Washington Wizards","Cleveland Cavaliers",90,97
+2007,"first",1,"Detroit Pistons","Orlando Magic",100,92
+2007,"first",2,"Detroit Pistons","Orlando Magic",98,90
+2007,"first",3,"Orlando Magic","Detroit Pistons",77,93
+2007,"first",4,"Orlando Magic","Detroit Pistons",93,97
+2007,"first",1,"Toronto Raptors","New Jersey Nets",91,96
+2007,"first",2,"Toronto Raptors","New Jersey Nets",89,83
+2007,"first",3,"New Jersey Nets","Toronto Raptors",102,89
+2007,"first",4,"New Jersey Nets","Toronto Raptors",102,81
+2007,"first",5,"Toronto Raptors","New Jersey Nets",98,96
+2007,"first",6,"New Jersey Nets","Toronto Raptors",98,97
+2007,"first",1,"Dallas Mavericks","Golden State Warriors",85,97
+2007,"first",2,"Dallas Mavericks","Golden State Warriors",112,99
+2007,"first",3,"Golden State Warriors","Dallas Mavericks",109,91
+2007,"first",4,"Golden State Warriors","Dallas Mavericks",103,99
+2007,"first",5,"Dallas Mavericks","Golden State Warriors",118,112
+2007,"first",6,"Golden State Warriors","Dallas Mavericks",111,86
+2007,"first",1,"Phoenix Suns","Los Angeles Lakers",95,87
+2007,"first",2,"Phoenix Suns","Los Angeles Lakers",126,98
+2007,"first",3,"Los Angeles Lakers","Phoenix Suns",95,89
+2007,"first",4,"Los Angeles Lakers","Phoenix Suns",100,113
+2007,"first",5,"Phoenix Suns","Los Angeles Lakers",119,110
+2007,"first",1,"San Antonio Spurs","Denver Nuggets",89,95
+2007,"first",2,"San Antonio Spurs","Denver Nuggets",97,88
+2007,"first",3,"Denver Nuggets","San Antonio Spurs",91,96
+2007,"first",4,"Denver Nuggets","San Antonio Spurs",89,96
+2007,"first",5,"San Antonio Spurs","Denver Nuggets",93,78
+2007,"first",1,"Houston Rockets","Utah Jazz",84,75
+2007,"first",2,"Houston Rockets","Utah Jazz",98,90
+2007,"first",3,"Utah Jazz","Houston Rockets",81,67
+2007,"first",4,"Utah Jazz","Houston Rockets",98,85
+2007,"first",5,"Houston Rockets","Utah Jazz",96,92
+2007,"first",6,"Utah Jazz","Houston Rockets",94,82
+2007,"first",7,"Houston Rockets","Utah Jazz",99,103
