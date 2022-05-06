@@ -28,7 +28,7 @@ A simple visualisation of the methodology is presented in Excel and PowerPoint.
 ## Visualization
 
 # Data
-
+ 
 ## Source
 The source of the data was sportsreference.com.
 
