@@ -20,9 +20,18 @@ conference_dict = {1: "western", 2: "eastern"}
 
 def pick_winner(matchup):
     """This function picks the series winner of one matchup. The projected winning team is returned."""
-
-    home_team = matchup[0]
-    away_team = matchup[1]
+    
+    if df1[(df1['team'] == matchup[0])].iloc[0, 1] == df1[(df1['team'] == matchup[1])].iloc[0, 1]:
+        if df1[(df1['team'] == matchup[0])].iloc[0, 2] > df1[(df1['team'] == matchup[1])].iloc[0, 2]:
+            home_team = matchup[0]
+            away_team = matchup[1]
+        else:
+            home_team = matchup[1]
+            away_team = matchup[0]
+    else:
+        home_team = matchup[0]
+        away_team = matchup[1]
+        
     prob1 = df[(df['Home_TeamID'] == home_team) & (df['Away_TeamID'] == away_team)].iloc[0, 2]
     prob2 = df[(df['Home_TeamID'] == away_team) & (df['Away_TeamID'] == home_team)].iloc[0, 2]
     home_wins = 0
