@@ -3,8 +3,7 @@ import pandas as pd
 from glob2 import glob
 
 # read csv loop and create row replacement list
-path = r"C:\Users\madwo\pclass\NBA_playoff_bracket\data\team_vs_team"
-os.chdir(path)
+os.path.join("data", "team_vs_team")
 
 names = glob("*.csv")
 dfs = []
@@ -44,7 +43,7 @@ for file in glob("*.csv"):
                 continue
     dfs.append(df)
 
-os.chdir(r"C:\Users\madwo\pclass\NBA_playoff_bracket\data\clean\Team vs Team")
+os.path.join("data", "clean", "team_vs_team")
 for i in range(len(dfs)):
     new_df = dfs[i]
     filename = names[i]
