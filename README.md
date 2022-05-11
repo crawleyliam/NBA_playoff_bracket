@@ -2,7 +2,7 @@
 ## GOAL:
 The goal of this analysis is to generate a model which predicts the winner of the 2022 NBA finals.
 This analysis incorporates the probability that a given team will beat another given team in each game in every series, generating a final probability the team will win the finals.
-Monte Carlo simulation will also be used to present the ammount of times a team will win out of 1,000 simulations.
+Monte Carlo simulation will also be used to present the amount of times a team will win out of 1,000 simulations.
 
 ## Methodology:
 This project uses publicly availible historical data from sportsreference.com.
