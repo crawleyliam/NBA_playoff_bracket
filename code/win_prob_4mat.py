@@ -1,15 +1,14 @@
+import os
 import pandas as pd
 
- 
+###  cd ~/NBA_playoff_bracket
 
-df = pd.read_csv (r'C:/Users/Brian Brungardt/NBA_playoff_bracket/artifacts/all_2022_matchups.csv')
-
+nbapath = os.path.join("artifacts", "all_2022_matchups.csv")
+df = pd.read_csv(nbapath)
 df = df.drop('Home_TeamID', 1)
-
 df = df.drop('Away_TeamID', 1)
 
  
-
 "ATL"
 
 df1 = df[0:15]
@@ -22,7 +21,7 @@ dfone = pd.DataFrame(list1)
 
 print (dfone)
 
- 
+
 
 "BKN"
 
@@ -231,3 +230,5 @@ list1.insert(0, [1])
 dfone = pd.DataFrame(list1)
 
 print (dfone)
+
+
