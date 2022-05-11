@@ -94,29 +94,29 @@ print (dfsix)
 
 "GSW"
 
-df1 = df[0:15]
+df7 = df[96:111]
 
-list1 = df1.values.tolist()
+list7 = df7.values.tolist()
 
-list1.insert(0, [1])
+list7.insert(6, [1])
 
-dfone = pd.DataFrame(list1)
+dfseven = pd.DataFrame(list7)
 
-print (dfone)
+print (dfseven)
 
  
 
 "MEM"
 
-df1 = df[0:15]
+df8 = df[112:127]
 
-list1 = df1.values.tolist()
+list8 = df8.values.tolist()
 
-list1.insert(0, [1])
+list8.insert(7, [1])
 
-dfone = pd.DataFrame(list1)
+dfeight = pd.DataFrame(list8)
 
-print (dfone)
+print (dfeight)
 
  
 
