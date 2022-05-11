@@ -91,15 +91,20 @@ def pick_bracket():
     build_round(15, 16)
     pick_round(15, 16)
 
-
-if __name__ == '__main__':
-
+def pick_champion():
     build_bracket()
     pick_bracket()
-    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
-        for key in winner_dict.keys():
-            file.write("%s, %s\n" % (key, winner_dict[key]))
 
-    with open(os.path.join(OUTPUT_DIR, "matchups.csv"), 'w') as file:
-        for key in matchup_dict.keys():
-            file.write("%s, %s\n" % (key, matchup_dict[key]))
+    return(winner_dict[15])
+
+if __name__ == '__main__':
+    print(pick_champion())
+#    build_bracket()
+#    pick_bracket()
+#    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
+#        for key in winner_dict.keys():
+#            file.write("%s, %s\n" % (key, winner_dict[key]))
+
+#    with open(os.path.join(OUTPUT_DIR, "matchups.csv"), 'w') as file:
+#        for key in matchup_dict.keys():
+#            file.write("%s, %s\n" % (key, matchup_dict[key]))
