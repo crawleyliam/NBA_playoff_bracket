@@ -8,7 +8,7 @@ df = pd.read_csv(nbapath)
 df = df.drop('Home_TeamID', 1)
 df = df.drop('Away_TeamID', 1)
 
- 
+
 "ATL"
 
 df1 = df[0:15]
@@ -22,74 +22,73 @@ dfone = pd.DataFrame(list1)
 print (dfone)
 
 
-
 "BKN"
 
-df1 = df[0:15]
+df2 = df[16:31]
 
-list1 = df1.values.tolist()
+list2 = df2.values.tolist()
 
-list1.insert(0, [1])
+list2.insert(1, [1])
 
-dfone = pd.DataFrame(list1)
+dftwo = pd.DataFrame(list2)
 
-print (dfone)
+print (dftwo)
 
  
 
 "BOS"
 
-df1 = df[0:15]
+df3 = df[32:47]
 
-list1 = df1.values.tolist()
+list3 = df3.values.tolist()
 
-list1.insert(0, [1])
+list3.insert(2, [1])
 
-dfone = pd.DataFrame(list1)
+dfthree = pd.DataFrame(list3)
 
-print (dfone)
+print (dfthree)
 
  
 
 "CHI"
 
-df1 = df[0:15]
+df4 = df[48:63]
 
-list1 = df1.values.tolist()
+list4 = df4.values.tolist()
 
-list1.insert(0, [1])
+list4.insert(3, [1])
 
-dfone = pd.DataFrame(list1)
+dffour = pd.DataFrame(list4)
 
-print (dfone)
+print (dffour)
 
  
 
 "DAL"
 
-df1 = df[0:15]
+df5 = df[64:79]
 
-list1 = df1.values.tolist()
+list5 = df5.values.tolist()
 
-list1.insert(0, [1])
+list5.insert(4, [1])
 
-dfone = pd.DataFrame(list1)
+dffive = pd.DataFrame(list5)
 
-print (dfone)
+print (dffive)
 
  
 
 "DEN"
 
-df1 = df[0:15]
+df6 = df[80:95]
 
-list1 = df1.values.tolist()
+list6 = df6.values.tolist()
 
-list1.insert(0, [1])
+list6.insert(5, [1])
 
-dfone = pd.DataFrame(list1)
+dfsix = pd.DataFrame(list6)
 
-print (dfone)
+print (dfsix)
 
  
 
