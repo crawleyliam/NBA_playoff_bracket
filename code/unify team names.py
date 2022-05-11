@@ -6,25 +6,25 @@ from glob2 import glob
 path = r"C:\Users\madwo\pclass\NBA_playoff_bracket\data\team_vs_team"
 os.chdir(path)
 
-names = glob('*.csv')
+names = glob("*.csv")
 dfs = []
 
 old_names = ["Charlotte Bobcats", "New Jersey Nets", "New Orleans/Oklahoma City Hornets", "New Orleans Hornets","Seattle SuperSonics"]
 current_names = ["Charlotte Hornets", "Brooklyn Nets", "New Orleans Pelicans", "New Orleans Pelicans", "Oklahoma City Thunder"]
 
-for file in glob('*.csv'):
+for file in glob("*.csv"):
     df = pd.read_csv(file)
     # rename header to current abbreviation
-    if 'CHA' in df.columns:
-        df.rename(columns={'CHA' : 'CHO'}, inplace=True)
-    if 'NJN' in df.columns:
-        df.rename(columns={'NJN' : 'BRK'}, inplace=True)
-    if 'NOK' in df.columns:
-        df.rename(columns={'NOK' : 'NLP'}, inplace=True)
-    if 'NOH' in df.columns:
-        df.rename(columns={'NOH' : 'NLP'}, inplace=True)
-    if 'SEA' in df.columns:
-        df.rename(columns={'SEA' : 'OKC'}, inplace=True)
+    if "CHA" in df.columns:
+        df.rename(columns={"CHA" : "CHO"}, inplace=True)
+    if "NJN" in df.columns:
+        df.rename(columns={"NJN" : "BRK"}, inplace=True)
+    if "NOK" in df.columns:
+        df.rename(columns={"NOK" : "NLP"}, inplace=True)
+    if "NOH" in df.columns:
+        df.rename(columns={"NOH" : "NLP"}, inplace=True)
+    if "SEA" in df.columns:
+        df.rename(columns={"SEA" : "OKC"}, inplace=True)
 
     # rename team name to current name
     for old in old_names:
