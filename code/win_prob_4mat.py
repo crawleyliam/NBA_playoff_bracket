@@ -122,57 +122,57 @@ print (dfeight)
 
 "MIA"
 
-df1 = df[0:15]
+df9 = df[128:143]
 
-list1 = df1.values.tolist()
+list9 = df9.values.tolist()
 
-list1.insert(0, [1])
+list9.insert(8, [1])
 
-dfone = pd.DataFrame(list1)
+dfnine = pd.DataFrame(list9)
 
-print (dfone)
+print (dfnine)
 
  
 
 "MIL"
 
-df1 = df[0:15]
+df10 = df[144:159]
 
-list1 = df1.values.tolist()
+list10 = df10.values.tolist()
 
-list1.insert(0, [1])
+list10.insert(9, [1])
 
-dfone = pd.DataFrame(list1)
+dften = pd.DataFrame(list10)
 
-print (dfone)
+print (dften)
 
  
 
 "MIN"
 
-df1 = df[0:15]
+df11 = df[160:174]
 
-list1 = df1.values.tolist()
+list11 = df11.values.tolist()
 
-list1.insert(0, [1])
+list11.insert(10, [1])
 
-dfone = pd.DataFrame(list1)
+dfeleven = pd.DataFrame(list11)
 
-print (dfone)
+print (dfeleven)
 
  
 
 "NOP"
 
-df1 = df[0:15]
+df12 = df[175:191]
 
-list1 = df1.values.tolist()
+list12 = df12.values.tolist()
 
-list1.insert(0, [1])
+list12.insert(11, [1])
 
-dfone = pd.DataFrame(list1)
+dftwelve = pd.DataFrame(list12)
 
-print (dfone)
+print (dftwelve)
 
  
 
