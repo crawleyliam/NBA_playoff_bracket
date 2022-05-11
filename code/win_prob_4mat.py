@@ -3,6 +3,9 @@ import pandas as pd
 
 ###  cd ~/NBA_playoff_bracket
 
+output = 'artifacts'
+outpath = os.path.join(output, 'reformatted_probs.csv')
+
 nbapath = os.path.join("artifacts", "all_2022_matchups.csv")
 df = pd.read_csv(nbapath)
 df = df.drop('Home_TeamID', 1)
@@ -19,7 +22,7 @@ list1.insert(0, [1])
 
 dfone = pd.DataFrame(list1)
 
-print (dfone)
+# print (dfone)
 
 
 "BKN"
@@ -32,9 +35,8 @@ list2.insert(1, [1])
 
 dftwo = pd.DataFrame(list2)
 
-print (dftwo)
+# print (dftwo)
 
- 
 
 "BOS"
 
@@ -46,9 +48,8 @@ list3.insert(2, [1])
 
 dfthree = pd.DataFrame(list3)
 
-print (dfthree)
+# print (dfthree)
 
- 
 
 "CHI"
 
@@ -60,9 +61,8 @@ list4.insert(3, [1])
 
 dffour = pd.DataFrame(list4)
 
-print (dffour)
+# print (dffour)
 
- 
 
 "DAL"
 
@@ -74,9 +74,8 @@ list5.insert(4, [1])
 
 dffive = pd.DataFrame(list5)
 
-print (dffive)
+# print (dffive)
 
- 
 
 "DEN"
 
@@ -88,9 +87,8 @@ list6.insert(5, [1])
 
 dfsix = pd.DataFrame(list6)
 
-print (dfsix)
+#print (dfsix)
 
- 
 
 "GSW"
 
@@ -102,9 +100,8 @@ list7.insert(6, [1])
 
 dfseven = pd.DataFrame(list7)
 
-print (dfseven)
+# print (dfseven)
 
- 
 
 "MEM"
 
@@ -116,9 +113,8 @@ list8.insert(7, [1])
 
 dfeight = pd.DataFrame(list8)
 
-print (dfeight)
+# print (dfeight)
 
- 
 
 "MIA"
 
@@ -130,9 +126,8 @@ list9.insert(8, [1])
 
 dfnine = pd.DataFrame(list9)
 
-print (dfnine)
+# print (dfnine)
 
- 
 
 "MIL"
 
@@ -144,9 +139,8 @@ list10.insert(9, [1])
 
 dften = pd.DataFrame(list10)
 
-print (dften)
+# print (dften)
 
- 
 
 "MIN"
 
@@ -158,9 +152,8 @@ list11.insert(10, [1])
 
 dfeleven = pd.DataFrame(list11)
 
-print (dfeleven)
+# print (dfeleven)
 
- 
 
 "NOP"
 
@@ -172,9 +165,8 @@ list12.insert(11, [1])
 
 dftwelve = pd.DataFrame(list12)
 
-print (dftwelve)
+# print (dftwelve)
 
- 
 
 "PHI"
 
@@ -186,9 +178,8 @@ list13.insert(12, [1])
 
 dfthirteen = pd.DataFrame(list13)
 
-print (dfthirteen)
+# print (dfthirteen)
 
- 
 
 "PHX"
 
@@ -200,9 +191,8 @@ list14.insert(13, [1])
 
 dffourteen = pd.DataFrame(list14)
 
-print (dffourteen)
+# print (dffourteen)
 
- 
 
 "TOR"
 
@@ -214,9 +204,8 @@ list15.insert(14, [1])
 
 dffifteen = pd.DataFrame(list15)
 
-print (dffifteen)
+# print (dffifteen)
 
- 
 
 "UTA"
 
@@ -228,6 +217,11 @@ list16.insert(15, [1])
 
 dfsixteen = pd.DataFrame(list16)
 
-print (dfsixteen)
+# print (dfsixteen)
 
+merged_teams = pd.concat([dfone, dftwo, dfthree, dffour, dffive, dfsix, dfseven, dfeight, dfnine, dften, dfeleven, dftwelve, dfthirteen, dffourteen, dffifteen, dfsixteen],
+ axis=1, join='outer')
 
+# print(merged_teams)
+
+merged_teams.to_csv(outpath)
