@@ -24,7 +24,7 @@ print (dfone)
 
 "BKN"
 
-df2 = df[16:31]
+df2 = df[15:30]
 
 list2 = df2.values.tolist()
 
@@ -38,7 +38,7 @@ print (dftwo)
 
 "BOS"
 
-df3 = df[32:47]
+df3 = df[30:45]
 
 list3 = df3.values.tolist()
 
@@ -52,7 +52,7 @@ print (dfthree)
 
 "CHI"
 
-df4 = df[48:63]
+df4 = df[45:60]
 
 list4 = df4.values.tolist()
 
@@ -66,7 +66,7 @@ print (dffour)
 
 "DAL"
 
-df5 = df[64:79]
+df5 = df[60:75]
 
 list5 = df5.values.tolist()
 
@@ -80,7 +80,7 @@ print (dffive)
 
 "DEN"
 
-df6 = df[80:95]
+df6 = df[75:90]
 
 list6 = df6.values.tolist()
 
@@ -94,7 +94,7 @@ print (dfsix)
 
 "GSW"
 
-df7 = df[96:111]
+df7 = df[90:105]
 
 list7 = df7.values.tolist()
 
@@ -108,7 +108,7 @@ print (dfseven)
 
 "MEM"
 
-df8 = df[112:127]
+df8 = df[105:120]
 
 list8 = df8.values.tolist()
 
@@ -122,7 +122,7 @@ print (dfeight)
 
 "MIA"
 
-df9 = df[128:143]
+df9 = df[120:135]
 
 list9 = df9.values.tolist()
 
@@ -136,7 +136,7 @@ print (dfnine)
 
 "MIL"
 
-df10 = df[144:159]
+df10 = df[135:150]
 
 list10 = df10.values.tolist()
 
@@ -150,7 +150,7 @@ print (dften)
 
 "MIN"
 
-df11 = df[160:174]
+df11 = df[150:165]
 
 list11 = df11.values.tolist()
 
@@ -164,7 +164,7 @@ print (dfeleven)
 
 "NOP"
 
-df12 = df[175:191]
+df12 = df[165:180]
 
 list12 = df12.values.tolist()
 
@@ -178,56 +178,56 @@ print (dftwelve)
 
 "PHI"
 
-df1 = df[0:15]
+df13 = df[180:195]
 
-list1 = df1.values.tolist()
+list13 = df13.values.tolist()
 
-list1.insert(0, [1])
+list13.insert(12, [1])
 
-dfone = pd.DataFrame(list1)
+dfthirteen = pd.DataFrame(list13)
 
-print (dfone)
+print (dfthirteen)
 
  
 
 "PHX"
 
-df1 = df[0:15]
+df14 = df[195:210]
 
-list1 = df1.values.tolist()
+list14 = df14.values.tolist()
 
-list1.insert(0, [1])
+list14.insert(13, [1])
 
-dfone = pd.DataFrame(list1)
+dffourteen = pd.DataFrame(list14)
 
-print (dfone)
+print (dffourteen)
 
  
 
 "TOR"
 
-df1 = df[0:15]
+df15 = df[210:225]
 
-list1 = df1.values.tolist()
+list15 = df15.values.tolist()
 
-list1.insert(0, [1])
+list15.insert(14, [1])
 
-dfone = pd.DataFrame(list1)
+dffifteen = pd.DataFrame(list15)
 
-print (dfone)
+print (dffifteen)
 
  
 
 "UTA"
 
-df1 = df[0:15]
+df16 = df[225:240]
 
-list1 = df1.values.tolist()
+list16 = df16.values.tolist()
 
-list1.insert(0, [1])
+list16.insert(15, [1])
 
-dfone = pd.DataFrame(list1)
+dfsixteen = pd.DataFrame(list16)
 
-print (dfone)
+print (dfsixteen)
 
 
