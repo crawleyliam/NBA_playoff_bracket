@@ -1,5 +1,19 @@
 
-CREATE TABLE pls_fy2014_pupld14a (
+/* Pull up the 2022.csv under /data/clean/team_vs_team and type verbatum 
+the column names followed by (varchar) NOT NULL,
+Ive done a few. The stuff underneath is his code from homework 9. It is formatted
+how we need to format ours if you want an example. When 
+*/
+
+CREATE TABLE team_vs_team (
+    Team (varchar) CONSTRAINT Team_key PRIMARY KEY,
+    ATL (varchar) NOT NULL,
+    BOS (varchar) NOT NULL,
+    BRK (varchar) NOT NULL,
+    
+);
+
+CREATE TABLE fscskey2014 ()
     stabr varchar(2) NOT NULL,
     fscskey varchar(6) CONSTRAINT fscskey2014_key PRIMARY KEY,
     libid varchar(20) NOT NULL,
