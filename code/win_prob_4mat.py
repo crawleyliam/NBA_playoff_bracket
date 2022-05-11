@@ -3,13 +3,13 @@ import pandas as pd
 
 ###  cd ~/NBA_playoff_bracket
 
-output = 'artifacts'
-outpath = os.path.join(output, 'reformatted_probs.csv')
+output = "artifacts"
+outpath = os.path.join(output, "reformatted_probs.csv")
 
 nbapath = os.path.join("artifacts", "all_2022_matchups.csv")
 df = pd.read_csv(nbapath)
-df = df.drop('Home_TeamID', 1)
-df = df.drop('Away_TeamID', 1)
+df = df.drop("Home_TeamID", 1)
+df = df.drop("Away_TeamID", 1)
 
 
 "ATL"
@@ -220,7 +220,7 @@ dfsixteen = pd.DataFrame(list16)
 # print (dfsixteen)
 
 merged_teams = pd.concat([dfone, dftwo, dfthree, dffour, dffive, dfsix, dfseven, dfeight, dfnine, dften, dfeleven, dftwelve, dfthirteen, dffourteen, dffifteen, dfsixteen],
- axis=1, join='outer')
+ axis=1, join="outer")
 
 # print(merged_teams)
 
