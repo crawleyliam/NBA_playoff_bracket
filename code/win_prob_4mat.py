@@ -87,7 +87,7 @@ list6.insert(13, [1])
 
 dfsix = pd.DataFrame(list6)
 
-#print (dfsix)
+# print (dfsix)
 
 
 "GSW"
@@ -219,8 +219,28 @@ dfsixteen = pd.DataFrame(list16)
 
 # print (dfsixteen)
 
-merged_teams = pd.concat([dfnine, dfone, dfthirteen, dffifteen, dften, dffour, dfthree, dftwo, dffourteen, dftwelve, dffive, dfsixteen, dfseven, dfsix, dfeight, dfeleven],
- axis=1, join="outer")
+merged_teams = pd.concat(
+    [
+        dfnine,
+        dfone,
+        dfthirteen,
+        dffifteen,
+        dften,
+        dffour,
+        dfthree,
+        dftwo,
+        dffourteen,
+        dftwelve,
+        dffive,
+        dfsixteen,
+        dfseven,
+        dfsix,
+        dfeight,
+        dfeleven,
+    ],
+    axis=1,
+    join="outer",
+)
 
 # print(merged_teams)
 
