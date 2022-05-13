@@ -97,8 +97,18 @@ def pick_champion():
 
     return(winner_dict[15])
 
+def random_sim(num_simulations):
+    
+    sim_champion = []
+    for i in range(num_simulations):
+        sim_champion.append(pick_champion())
+    
+    return(sim_champion)
+
+
 if __name__ == '__main__':
-    print(pick_champion())
+    #print(pick_champion())
+    print(random_sim(500))
 #    build_bracket()
 #    pick_bracket()
 #    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
