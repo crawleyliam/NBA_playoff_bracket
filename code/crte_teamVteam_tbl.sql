@@ -18,7 +18,7 @@ CREATE TABLE team_vs_team (
     MEM varchar NOT NULL,
     MIA varchar NOT NULL,
     MIL varchar NOT NULL,
-    MINN varchar NOT NULL,
+    MIN varchar NOT NULL,
     NOP varchar NOT NULL,
     NYK varchar NOT NULL,
     OKC varchar NOT NULL,
@@ -30,6 +30,6 @@ CREATE TABLE team_vs_team (
     SAS varchar NOT NULL,
     TOR varchar NOT NULL,
     UTA varchar NOT NULL,
-    WAS varchar NOT NULL,
+    WAS varchar NOT NULL
     
     );
