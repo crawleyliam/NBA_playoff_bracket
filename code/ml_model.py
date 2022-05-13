@@ -4,6 +4,9 @@ import sklearn as sk
 import numpy as np
 from sklearn.linear_model import LogisticRegressionCV
 from database import engine
+from sklearn.metrics import roc_curve
+from sklearn.metrics import roc_auc_score
+from matplotlib import pyplot
 
 query = """
 select
@@ -102,3 +105,25 @@ all_2022_matchups = all_matchups.iloc[:, 0:2].reindex(columns = ["Home_TeamID", 
 all_2022_matchups["Home_win_prob"] = clf.predict_proba(all_matchups.iloc[:, 2:13])[:,1]
 
 all_2022_matchups.to_csv(os.path.join("artifacts", "all_2022_matchups.csv"), index = False)
+
+hist_game_predict = clf.predict_proba(game_results.iloc[:, 3:14])[:,1]
+
+lr_auc = roc_auc_score(game_results["home_win"], hist_game_predict)
+lr_auc
+
+ns_probs = [0 for _ in range(len(game_results["home_win"]))]
+#ns_auc = roc_auc_score(len(game_results["home_win"], ns_probs))
+
+ns_fpr, ns_tpr, _ = roc_curve(game_results["home_win"], ns_probs)
+lr_fpr, lr_tpr, _ = roc_curve(game_results["home_win"], hist_game_predict)
+
+pyplot.plot(ns_fpr, ns_tpr, linestyle='--', label='No Skill')
+pyplot.plot(lr_fpr, lr_tpr, marker='.', label='CV Logistic')
+
+# axis labels
+pyplot.xlabel('False Positive Rate')
+pyplot.ylabel('True Positive Rate')
+# show the legend
+pyplot.legend()
+
+pyplot.savefig(os.path.join("artifacts", "ROC_curve.png"))
