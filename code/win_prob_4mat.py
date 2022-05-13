@@ -1,14 +1,16 @@
+import os
 import pandas as pd
 
- 
+###  cd ~/NBA_playoff_bracket
 
-df = pd.read_csv (r'C:/Users/Brian Brungardt/NBA_playoff_bracket/artifacts/all_2022_matchups.csv')
+output = "artifacts"
+outpath = os.path.join(output, "reformatted_probs.csv")
 
-df = df.drop('Home_TeamID', 1)
+nbapath = os.path.join("artifacts", "all_2022_matchups.csv")
+df = pd.read_csv(nbapath)
+df = df.drop("Home_TeamID", 1)
+df = df.drop("Away_TeamID", 1)
 
-df = df.drop('Away_TeamID', 1)
-
- 
 
 "ATL"
 
@@ -16,218 +18,210 @@ df1 = df[0:15]
 
 list1 = df1.values.tolist()
 
-list1.insert(0, [1])
+list1.insert(1, [1])
 
 dfone = pd.DataFrame(list1)
 
-print (dfone)
+# print (dfone)
 
- 
 
 "BKN"
 
-df1 = df[0:15]
+df2 = df[150:165]
 
-list1 = df1.values.tolist()
+list2 = df2.values.tolist()
 
-list1.insert(0, [1])
+list2.insert(7, [1])
 
-dfone = pd.DataFrame(list1)
+dftwo = pd.DataFrame(list2)
 
-print (dfone)
+# print (dftwo)
 
- 
 
 "BOS"
 
-df1 = df[0:15]
+df3 = df[15:30]
 
-list1 = df1.values.tolist()
+list3 = df3.values.tolist()
 
-list1.insert(0, [1])
+list3.insert(6, [1])
 
-dfone = pd.DataFrame(list1)
+dfthree = pd.DataFrame(list3)
 
-print (dfone)
+# print (dfthree)
 
- 
 
 "CHI"
 
-df1 = df[0:15]
+df4 = df[30:45]
 
-list1 = df1.values.tolist()
+list4 = df4.values.tolist()
 
-list1.insert(0, [1])
+list4.insert(5, [1])
 
-dfone = pd.DataFrame(list1)
+dffour = pd.DataFrame(list4)
 
-print (dfone)
+# print (dffour)
 
- 
 
 "DAL"
 
-df1 = df[0:15]
+df5 = df[45:60]
 
-list1 = df1.values.tolist()
+list5 = df5.values.tolist()
 
-list1.insert(0, [1])
+list5.insert(10, [1])
 
-dfone = pd.DataFrame(list1)
+dffive = pd.DataFrame(list5)
 
-print (dfone)
+# print (dffive)
 
- 
 
 "DEN"
 
-df1 = df[0:15]
+df6 = df[60:75]
 
-list1 = df1.values.tolist()
+list6 = df6.values.tolist()
 
-list1.insert(0, [1])
+list6.insert(13, [1])
 
-dfone = pd.DataFrame(list1)
+dfsix = pd.DataFrame(list6)
 
-print (dfone)
+#print (dfsix)
 
- 
 
 "GSW"
 
-df1 = df[0:15]
+df7 = df[75:90]
 
-list1 = df1.values.tolist()
+list7 = df7.values.tolist()
 
-list1.insert(0, [1])
+list7.insert(12, [1])
 
-dfone = pd.DataFrame(list1)
+dfseven = pd.DataFrame(list7)
 
-print (dfone)
+# print (dfseven)
 
- 
 
 "MEM"
 
-df1 = df[0:15]
+df8 = df[90:105]
 
-list1 = df1.values.tolist()
+list8 = df8.values.tolist()
 
-list1.insert(0, [1])
+list8.insert(14, [1])
 
-dfone = pd.DataFrame(list1)
+dfeight = pd.DataFrame(list8)
 
-print (dfone)
+# print (dfeight)
 
- 
 
 "MIA"
 
-df1 = df[0:15]
+df9 = df[105:120]
 
-list1 = df1.values.tolist()
+list9 = df9.values.tolist()
 
-list1.insert(0, [1])
+list9.insert(0, [1])
 
-dfone = pd.DataFrame(list1)
+dfnine = pd.DataFrame(list9)
 
-print (dfone)
+# print (dfnine)
 
- 
 
 "MIL"
 
-df1 = df[0:15]
+df10 = df[120:135]
 
-list1 = df1.values.tolist()
+list10 = df10.values.tolist()
 
-list1.insert(0, [1])
+list10.insert(4, [1])
 
-dfone = pd.DataFrame(list1)
+dften = pd.DataFrame(list10)
 
-print (dfone)
+# print (dften)
 
- 
 
 "MIN"
 
-df1 = df[0:15]
+df11 = df[135:150]
 
-list1 = df1.values.tolist()
+list11 = df11.values.tolist()
 
-list1.insert(0, [1])
+list11.insert(15, [1])
 
-dfone = pd.DataFrame(list1)
+dfeleven = pd.DataFrame(list11)
 
-print (dfone)
+# print (dfeleven)
 
- 
 
 "NOP"
 
-df1 = df[0:15]
+df12 = df[165:180]
 
-list1 = df1.values.tolist()
+list12 = df12.values.tolist()
 
-list1.insert(0, [1])
+list12.insert(9, [1])
 
-dfone = pd.DataFrame(list1)
+dftwelve = pd.DataFrame(list12)
 
-print (dfone)
+# print (dftwelve)
 
- 
 
 "PHI"
 
-df1 = df[0:15]
+df13 = df[180:195]
 
-list1 = df1.values.tolist()
+list13 = df13.values.tolist()
 
-list1.insert(0, [1])
+list13.insert(2, [1])
 
-dfone = pd.DataFrame(list1)
+dfthirteen = pd.DataFrame(list13)
 
-print (dfone)
+# print (dfthirteen)
 
- 
 
 "PHX"
 
-df1 = df[0:15]
+df14 = df[195:210]
 
-list1 = df1.values.tolist()
+list14 = df14.values.tolist()
 
-list1.insert(0, [1])
+list14.insert(8, [1])
 
-dfone = pd.DataFrame(list1)
+dffourteen = pd.DataFrame(list14)
 
-print (dfone)
+# print (dffourteen)
 
- 
 
 "TOR"
 
-df1 = df[0:15]
+df15 = df[210:225]
 
-list1 = df1.values.tolist()
+list15 = df15.values.tolist()
 
-list1.insert(0, [1])
+list15.insert(3, [1])
 
-dfone = pd.DataFrame(list1)
+dffifteen = pd.DataFrame(list15)
 
-print (dfone)
+# print (dffifteen)
 
- 
 
 "UTA"
 
-df1 = df[0:15]
+df16 = df[225:240]
 
-list1 = df1.values.tolist()
+list16 = df16.values.tolist()
 
-list1.insert(0, [1])
+list16.insert(11, [1])
 
-dfone = pd.DataFrame(list1)
+dfsixteen = pd.DataFrame(list16)
 
-print (dfone)
+# print (dfsixteen)
+
+merged_teams = pd.concat([dfnine, dfone, dfthirteen, dffifteen, dften, dffour, dfthree, dftwo, dffourteen, dftwelve, dffive, dfsixteen, dfseven, dfsix, dfeight, dfeleven],
+ axis=1, join="outer")
+
+# print(merged_teams)
+
+merged_teams.to_csv(outpath)
