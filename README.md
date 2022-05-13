@@ -25,7 +25,8 @@ This project is limited by the strength of the probability model, which relied o
 ## Extensions
 
 ## Visualization
-(visualization found in visualization.xlsx)
+![ROC_curve](https://user-images.githubusercontent.com/97993980/168327854-5fea75bf-374e-4614-bbf3-5ebcaa6756e8.png)
+
 
 # Data
 ## Source
