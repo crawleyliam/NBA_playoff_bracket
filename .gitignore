@@ -11,3 +11,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+#Unused code files
+crte_teamVteam_tbl.sql
+database.py
+table_join.sql
+unify_team_names.py
+visualization.py
+win_prob_4mat.py
