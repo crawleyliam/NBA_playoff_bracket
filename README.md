@@ -37,7 +37,7 @@ The source of the data was sportsreference.com.
 
 ## Collection
 Data was downloaded from sports reference and SQL was used to generate a database from the raw data.
-Data was cleaned using SQL ensuring that team names were consistent, missing values were removed, and seasons with too few games were excluded.
+Data was cleaned using SQL ensuring that team names were consistent, missing values were removed, and seasons with too few games were excluded. 15 years of team data (2007 - 2022) on 30 teams were collected including team versus team matchups, shooting statistics, offensive/defensive ratings, etc.
 
 ## Details
 The raw data includes several CSVs with various content.
