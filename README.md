@@ -5,10 +5,10 @@ This analysis incorporates the probability that a given team will beat another g
 A Monte Carlo simulation will also be used to present the amount of times a team will win out of 1,000 simulations.
 
 ## Methodology:
-This project uses publicly availible historical data from sportsreference.com.
+This project uses publicly available historical data from sportsreference.com.
 The data is downloaded and turned into a database using SQL.
-The database is cleaned trough SQL.
-The historical data is then used to train a probit model to predict the probability a home team beats an away team based on a series of factors. 
+The database is cleaned through SQL.
+The historical data is then used to train a logistic regression model to predict the probability a home team beats an away team based on a series of factors. 
 These factors are determined by random forest modeling.
 A logistic regression model is used because we find that the score differentials between teams follow a normal distribution.
 The 2022 NBA finals are then run through the model, each game is played in each series until a winner emerges from the bracket.
