@@ -92,13 +92,16 @@ def pick_bracket():
     pick_round(15, 16)
 
 def pick_champion():
+    """This function takes the information from build_bracket and returns
+    the ultimate winnner of the tournament after pick_bracket is called. """
     build_bracket()
     pick_bracket()
 
     return(winner_dict[15])
 
 def random_sim(num_simulations):
-    
+    """This function simulates the outcome of pick_champion for a desired
+    number of times. It returns a list of champions names in the form NME-YEAR"""
     sim_champion = []
     for i in range(num_simulations):
         sim_champion.append(pick_champion())
@@ -108,7 +111,7 @@ def random_sim(num_simulations):
 
 if __name__ == '__main__':
     #print(pick_champion())
-    print(random_sim(500))
+    print(random_sim(1000))
 #    build_bracket()
 #    pick_bracket()
 #    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
