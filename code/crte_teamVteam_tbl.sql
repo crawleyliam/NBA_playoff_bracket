@@ -5,7 +5,7 @@ CREATE TABLE team_vs_team (
     BOS numeric,
     BRK numeric,
     CHI numeric,
-    CHO numeric,
+    CHA numeric,
     CLE numeric,
     DAL numeric,
     DEN numeric,
