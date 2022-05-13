@@ -27,7 +27,7 @@ dfone = pd.DataFrame(list1)
 
 "BKN"
 
-df2 = df[15:30]
+df2 = df[150:165]
 
 list2 = df2.values.tolist()
 
@@ -40,7 +40,7 @@ dftwo = pd.DataFrame(list2)
 
 "BOS"
 
-df3 = df[30:45]
+df3 = df[15:30]
 
 list3 = df3.values.tolist()
 
@@ -53,7 +53,7 @@ dfthree = pd.DataFrame(list3)
 
 "CHI"
 
-df4 = df[45:60]
+df4 = df[30:45]
 
 list4 = df4.values.tolist()
 
@@ -66,7 +66,7 @@ dffour = pd.DataFrame(list4)
 
 "DAL"
 
-df5 = df[60:75]
+df5 = df[45:60]
 
 list5 = df5.values.tolist()
 
@@ -79,7 +79,7 @@ dffive = pd.DataFrame(list5)
 
 "DEN"
 
-df6 = df[75:90]
+df6 = df[60:75]
 
 list6 = df6.values.tolist()
 
@@ -92,7 +92,7 @@ dfsix = pd.DataFrame(list6)
 
 "GSW"
 
-df7 = df[90:105]
+df7 = df[75:90]
 
 list7 = df7.values.tolist()
 
@@ -105,7 +105,7 @@ dfseven = pd.DataFrame(list7)
 
 "MEM"
 
-df8 = df[105:120]
+df8 = df[90:105]
 
 list8 = df8.values.tolist()
 
@@ -118,7 +118,7 @@ dfeight = pd.DataFrame(list8)
 
 "MIA"
 
-df9 = df[120:135]
+df9 = df[105:120]
 
 list9 = df9.values.tolist()
 
@@ -131,7 +131,7 @@ dfnine = pd.DataFrame(list9)
 
 "MIL"
 
-df10 = df[135:150]
+df10 = df[120:135]
 
 list10 = df10.values.tolist()
 
@@ -144,7 +144,7 @@ dften = pd.DataFrame(list10)
 
 "MIN"
 
-df11 = df[150:165]
+df11 = df[135:150]
 
 list11 = df11.values.tolist()
 
