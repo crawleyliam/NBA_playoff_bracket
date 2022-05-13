@@ -17,15 +17,24 @@ The results of this simulation reveal how likely any given team is to win the fi
 A simple visualisation of the methodology is presented in Excel and PowerPoint.
 
 ## Findings
-(findings (or non-findings) must be clearly documented)
-(Your findings must be supported by your analysis)
+When running the Monte Carlo simulation 10,000 times the celtics win in the most instances, 2122 / 21.2% of the time.
+Golden State and Phoenix win in 2,019 and 1,730 instances respectively.
+Toronto only wins in 5 instances while New Orleans wins in zero instances.
+Our model leads us to predict that the Celtics will most likely win the tournament.
 
 ## Limitations
-This project is limited by the strength of the probability model, which relied on machine learning techniques to gather the proper covariates of relevence. As mentioned also in the data/limitations section, our model lacks data on statistics such as coaching ability, team vs. team strategy, and player injuries. We believe the inclusion of these statistics into the probability model would improve the results of the analysis, however the Monte Carlo simulation tries to account for some of the non-white noise error. 
+This project is limited by the strength of the probability model, which relied on machine learning techniques to gather the proper covariates of relevence. As mentioned also in the data/limitations section, our model lacks data on statistics such as coaching ability, team vs. team strategy, and player injuries. We believe the inclusion of these statistics into the probability model would improve the results of the analysis, however the Monte Carlo simulation tries to account for some of the non-white noise error.
+
 ## Extensions
+Another set of variables we could possibly include are player trades.  This might increase accuracy, but it would make the model much more complex and it would no longer be based solely on team statistics but rather on individual players.  The complexity of this model would take much more time to build and complete, and given the time constraint, we determined it would be best not to focus on this factor.
+
 
 ## Visualization
-(visualization found in visualization.xlsx)
+![ROC_curve](https://user-images.githubusercontent.com/97993980/168327854-5fea75bf-374e-4614-bbf3-5ebcaa6756e8.png)
+
+This graph shows the performance of the model as compared to chance.
+The dotted line indicates random guessing, a 50-50 chance of true or false positives.
+Our model is represented by the orange line which shows a higher rate of true positives and a lower rate of false positives.
 
 # Data
 ## Source
@@ -33,7 +42,7 @@ The source of the data was sportsreference.com.
 
 ## Collection
 Data was downloaded from sports reference and SQL was used to generate a database from the raw data.
-Data was cleaned using SQL ensuring that team names were consistent, missing values were removed, and seasons with too few games were excluded.
+Data was cleaned using SQL ensuring that team names were consistent, missing values were removed, and seasons with too few games were excluded. 15 years of team data (2007 - 2022) on 30 teams were collected including team versus team matchups, shooting statistics, offensive/defensive ratings, etc.
 
 ## Details
 The raw data includes several CSVs with various content.

@@ -3,15 +3,49 @@ import random
 import os
 from matplotlib import pyplot
 
-INPUT_DIR = 'artifacts'
-OUTPUT_DIR = 'artifacts'
+INPUT_DIR = "artifacts"
+OUTPUT_DIR = "artifacts"
 
 df = pd.read_csv(os.path.join(INPUT_DIR, "all_2022_matchups.csv"))
-dict1 = {'team': ['PHX-2022', 'MEM-2022', 'GSW-2022', 'DAL-2022', 'UTA-2022', 'DEN-2022', 'MIN-2022', 'NOP-2022',
-                  'MIA-2022', 'BOS-2022', 'MIL-2022', 'PHI-2022', 'TOR-2022', 'CHI-2022', 'BKN-2022', 'ATL-2022'],
-         'conference': ['western', 'western', 'western', 'western', 'western', 'western', 'western', 'western',
-                        'eastern', 'eastern', 'eastern', 'eastern', 'eastern', 'eastern', 'eastern', 'eastern'],
-         'seed': [1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8]}
+dict1 = {
+    "team": [
+        "PHX-2022",
+        "MEM-2022",
+        "GSW-2022",
+        "DAL-2022",
+        "UTA-2022",
+        "DEN-2022",
+        "MIN-2022",
+        "NOP-2022",
+        "MIA-2022",
+        "BOS-2022",
+        "MIL-2022",
+        "PHI-2022",
+        "TOR-2022",
+        "CHI-2022",
+        "BKN-2022",
+        "ATL-2022",
+    ],
+    "conference": [
+        "western",
+        "western",
+        "western",
+        "western",
+        "western",
+        "western",
+        "western",
+        "western",
+        "eastern",
+        "eastern",
+        "eastern",
+        "eastern",
+        "eastern",
+        "eastern",
+        "eastern",
+        "eastern",
+    ],
+    "seed": [1, 2, 3, 4, 5, 6, 7, 8, 1, 2, 3, 4, 5, 6, 7, 8],
+}
 df1 = pd.DataFrame(dict1)
 
 matchup_dict = {}
@@ -21,9 +55,15 @@ conference_dict = {1: "western", 2: "eastern"}
 
 def pick_winner(matchup):
     """This function picks the series winner of one matchup. The projected winning team is returned."""
-    
-    if df1[(df1['team'] == matchup[0])].iloc[0, 1] == df1[(df1['team'] == matchup[1])].iloc[0, 1]:
-        if df1[(df1['team'] == matchup[0])].iloc[0, 2] > df1[(df1['team'] == matchup[1])].iloc[0, 2]:
+
+    if (
+        df1[(df1["team"] == matchup[0])].iloc[0, 1]
+        == df1[(df1["team"] == matchup[1])].iloc[0, 1]
+    ):
+        if (
+            df1[(df1["team"] == matchup[0])].iloc[0, 2]
+            > df1[(df1["team"] == matchup[1])].iloc[0, 2]
+        ):
             home_team = matchup[0]
             away_team = matchup[1]
         else:
@@ -32,9 +72,13 @@ def pick_winner(matchup):
     else:
         home_team = matchup[0]
         away_team = matchup[1]
-        
-    prob1 = df[(df['Home_TeamID'] == home_team) & (df['Away_TeamID'] == away_team)].iloc[0, 2]
-    prob2 = df[(df['Home_TeamID'] == away_team) & (df['Away_TeamID'] == home_team)].iloc[0, 2]
+
+    prob1 = df[
+        (df["Home_TeamID"] == home_team) & (df["Away_TeamID"] == away_team)
+    ].iloc[0, 2]
+    prob2 = df[
+        (df["Home_TeamID"] == away_team) & (df["Away_TeamID"] == home_team)
+    ].iloc[0, 2]
     home_wins = 0
     for i in range(4):
         if prob1 > random.uniform(0, 1):
@@ -75,9 +119,14 @@ def build_bracket():
     list1 = [1, 4, 3, 2]
     for i in list1:
         for n in range(1, 3):
-            matchup_dict[list1.index(i) + 1 + ((n - 1) * 4)] = \
-                [df1[(df1["conference"] == conference_dict[n]) & (df1['seed'] == i)].team.values[0],
-                 df1[(df1["conference"] == conference_dict[n]) & (df1['seed'] == (9 - i))].team.values[0]]
+            matchup_dict[list1.index(i) + 1 + ((n - 1) * 4)] = [
+                df1[
+                    (df1["conference"] == conference_dict[n]) & (df1["seed"] == i)
+                ].team.values[0],
+                df1[
+                    (df1["conference"] == conference_dict[n]) & (df1["seed"] == (9 - i))
+                ].team.values[0],
+            ]
 
 
 def pick_bracket():
@@ -92,13 +141,15 @@ def pick_bracket():
     build_round(15, 16)
     pick_round(15, 16)
 
+
 def pick_champion():
     """This function takes the information from build_bracket and returns
-    the ultimate winnner of the tournament after pick_bracket is called. """
+    the ultimate winnner of the tournament after pick_bracket is called."""
     build_bracket()
     pick_bracket()
 
-    return(winner_dict[15])
+    return winner_dict[15]
+
 
 def random_sim(num_simulations):
     """This function simulates the outcome of pick_champion for a desired
@@ -106,8 +157,9 @@ def random_sim(num_simulations):
     sim_champion = []
     for i in range(num_simulations):
         sim_champion.append(pick_champion())
-    
-    return(sim_champion)
+
+    return sim_champion
+
 
 
 if __name__ == '__main__':
@@ -122,12 +174,4 @@ if __name__ == '__main__':
     pyplot.xlabel('Team')
     pyplot.ylabel('Win Percentage')
     pyplot.savefig(os.path.join("artifacts", "2022_bar_plot_1000.png"))
-#    build_bracket()
-#    pick_bracket()
-#    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
-#        for key in winner_dict.keys():
-#            file.write("%s, %s\n" % (key, winner_dict[key]))
 
-#    with open(os.path.join(OUTPUT_DIR, "matchups.csv"), 'w') as file:
-#        for key in matchup_dict.keys():
-#            file.write("%s, %s\n" % (key, matchup_dict[key]))
