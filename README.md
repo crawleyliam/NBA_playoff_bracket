@@ -21,7 +21,7 @@ A simple visualisation of the methodology is presented in Excel and PowerPoint.
 (Your findings must be supported by your analysis)
 
 ## Limitations
-
+This project is limited by the strength of the probability model, which relied on machine learning techniques to gather the proper covariates of relevence. As mentioned also in the data/limitations section, our model lacks data on statistics such as coaching ability, team vs. team strategy, and player injuries. We believe the inclusion of these statistics into the probability model would improve the results of the analysis, however the Monte Carlo simulation tries to account for some of the non-white noise error. 
 ## Extensions
 
 ## Visualization
