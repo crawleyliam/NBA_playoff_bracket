@@ -1,6 +1,6 @@
 CREATE TABLE team_vs_team (
 
-    team varchar CONSTRAINT team_key PRIMARY KEY,
+    Team varchar CONSTRAINT team_key PRIMARY KEY,
     ATL varchar NOT NULL,
     BOS varchar NOT NULL,
     BRK varchar NOT NULL,
