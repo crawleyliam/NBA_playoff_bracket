@@ -1,6 +1,7 @@
 import pandas as pd
 import random
 import os
+from matplotlib import pyplot
 
 INPUT_DIR = "artifacts"
 OUTPUT_DIR = "artifacts"
@@ -160,15 +161,17 @@ def random_sim(num_simulations):
     return sim_champion
 
 
-if __name__ == "__main__":
-    # print(pick_champion())
-    print(random_sim(1000))
-#    build_bracket()
-#    pick_bracket()
-#    with open(os.path.join(OUTPUT_DIR, "winners.csv"), 'w') as file:
-#        for key in winner_dict.keys():
-#            file.write("%s, %s\n" % (key, winner_dict[key]))
 
-#    with open(os.path.join(OUTPUT_DIR, "matchups.csv"), 'w') as file:
-#        for key in matchup_dict.keys():
-#            file.write("%s, %s\n" % (key, matchup_dict[key]))
+if __name__ == '__main__':
+    sim_result = pd.DataFrame(random_sim(1000)).value_counts()
+    
+    team_names = list(list(zip(*sim_result.index.values))[0])
+    
+    team_names = [s.replace("-2022", "") for s in team_names]
+    
+    pyplot.bar(team_names, sim_result.values / 10)
+    pyplot.title('Pre-playoffs Probability of Winning 2022 Championship')
+    pyplot.xlabel('Team')
+    pyplot.ylabel('Win Percentage')
+    pyplot.savefig(os.path.join("artifacts", "2022_bar_plot_1000.png"))
+
