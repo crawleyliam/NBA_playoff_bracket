@@ -1,0 +1,12 @@
+Extra packages needed:
+
+plotly
+
+glob2
+
+sklearn
+
+random 
+
+
+
