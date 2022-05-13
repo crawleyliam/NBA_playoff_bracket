@@ -21,8 +21,11 @@ A simple visualisation of the methodology is presented in Excel and PowerPoint.
 (Your findings must be supported by your analysis)
 
 ## Limitations
-This project is limited by the strength of the probability model, which relied on machine learning techniques to gather the proper covariates of relevence. As mentioned also in the data/limitations section, our model lacks data on statistics such as coaching ability, team vs. team strategy, and player injuries. We believe the inclusion of these statistics into the probability model would improve the results of the analysis, however the Monte Carlo simulation tries to account for some of the non-white noise error. 
+This project is limited by the strength of the probability model, which relied on machine learning techniques to gather the proper covariates of relevence. As mentioned also in the data/limitations section, our model lacks data on statistics such as coaching ability, team vs. team strategy, and player injuries. We believe the inclusion of these statistics into the probability model would improve the results of the analysis, however the Monte Carlo simulation tries to account for some of the non-white noise error.
+
 ## Extensions
+Another set of variables we could possibly include are player trades.  This might increase accuracy, but it would make the model much more complex and it would no longer be based solely on team statistics but rather on individual players.  The complexity of this model would take much more time to build and complete, and given the time constraint, we determined it would be best not to focus on this factor.
+
 
 ## Visualization
 ![ROC_curve](https://user-images.githubusercontent.com/97993980/168327854-5fea75bf-374e-4614-bbf3-5ebcaa6756e8.png)
