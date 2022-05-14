@@ -1,12 +1,6 @@
-Extra packages needed:
-
-plotly
-
+plotly==5.6.0
 glob2
-
 sklearn
-
 random 
-
-
-
+dotenv
+psycopg2-binary
