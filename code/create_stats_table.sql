@@ -21,7 +21,6 @@ CREATE TABLE stats (
 	turnovers_per_game numeric NOT NULL,
 	fouls_per_game numeric NOT NULL,
 	points_per_game numeric NOT NULL,
-	minutes_played numeric NOT NULL,
 	fg_per_100_poss numeric NOT NULL,
 	fg_attempts_per_100_poss numeric NOT NULL,
 	fg_percentage numeric NOT NULL,
@@ -145,7 +144,5 @@ CREATE TABLE stats (
 	opponent_effective_fg_percentage numeric NOT NULL,
 	opponent_turnover_percentage numeric NOT NULL,
 	defensive_rebound_percentage numeric NOT NULL,
-	opponent_ft_per_fg numeric NOT NULL,
-	attendance numeric NOT NULL,
-	attendance_per_game numeric NOT NULL
+	opponent_ft_per_fg numeric NOT NULL
 );
